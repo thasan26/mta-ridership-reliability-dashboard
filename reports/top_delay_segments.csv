@@ -1,0 +1,11 @@
+Mode,Line_or_Route,Borough_or_Region,Incident_Type,Total_Delay_Minutes,Average_Recovery_Percentage,Incident_Count
+Metro-North,Harlem,Westchester,Crowding,130,73.42500000000001,4
+Metro-North,Hudson,Brooklyn,Crowding,105,71.86666666666667,3
+Subway,2,Manhattan,Crowding,104,71.19999999999999,2
+Bus,B44,Staten Island,Signal Problem,100,73.74,5
+Metro-North,New Haven,Long Island,Signal Problem,89,76.55,4
+Bus,S79,Long Island,Track Work,85,76.85,2
+Metro-North,Hudson,Long Island,Signal Problem,84,75.075,4
+Metro-North,New Haven,Brooklyn,Mechanical Issue,83,73.06666666666666,3
+LIRR,Ronkonkoma,Manhattan,Track Work,82,77.9,2
+Bus,Bx12,Manhattan,Track Work,81,76.16666666666667,3

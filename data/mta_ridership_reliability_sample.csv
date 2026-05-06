@@ -1,0 +1,1452 @@
+Date,Mode,Line_or_Route,Borough_or_Region,Daily_Ridership,Recovery_Percentage,Incident_Type,Delay_Minutes,Peak_Period
+2026-02-01,Subway,C,Bronx,2001005,73.3,Mechanical Issue,29,PM Peak
+2026-02-01,Subway,5,Westchester,2189818,69.5,Track Work,16,AM Peak
+2026-02-01,Subway,1,Staten Island,2329885,75.8,Police Activity,25,Evening
+2026-02-01,Bus,M15,Long Island,891977,77.8,Mechanical Issue,12,Evening
+2026-02-01,Bus,Q60,Brooklyn,924489,71.8,Weather,25,Evening
+2026-02-01,Bus,M15,Brooklyn,847893,81.4,Staffing,21,Evening
+2026-02-01,LIRR,Babylon,Long Island,144168,72.1,Signal Problem,25,AM Peak
+2026-02-01,LIRR,Long Beach,Manhattan,169830,74.9,Mechanical Issue,11,PM Peak
+2026-02-01,LIRR,Ronkonkoma,Westchester,159538,82.8,No Incident,0,PM Peak
+2026-02-01,Metro-North,New Haven,Bronx,116756,68.3,Weather,7,Midday
+2026-02-01,Metro-North,New Haven,Long Island,138189,82.0,Weather,13,PM Peak
+2026-02-01,Metro-North,New Haven,Bronx,154840,80.6,Signal Problem,3,AM Peak
+2026-02-01,Metro-North,Harlem,Manhattan,144480,77.4,No Incident,0,AM Peak
+2026-02-02,Subway,A,Brooklyn,3700843,68.5,Weather,25,PM Peak
+2026-02-02,Subway,C,Bronx,3756432,79.3,No Incident,0,Midday
+2026-02-02,Subway,F,Long Island,4091212,83.6,Mechanical Issue,20,AM Peak
+2026-02-02,Subway,N,Bronx,3840465,77.4,Signal Problem,11,AM Peak
+2026-02-02,Bus,Q60,Staten Island,1493243,78.8,Police Activity,3,PM Peak
+2026-02-02,Bus,B46,Long Island,1354981,80.4,Weather,16,PM Peak
+2026-02-02,Bus,S79,Staten Island,1462763,78.7,Signal Problem,11,PM Peak
+2026-02-02,LIRR,Babylon,Manhattan,276635,78.0,No Incident,0,Evening
+2026-02-02,LIRR,Port Washington,Brooklyn,284403,75.7,Signal Problem,3,AM Peak
+2026-02-02,Metro-North,Harlem,Westchester,197134,69.9,No Incident,0,PM Peak
+2026-02-02,Metro-North,New Haven,Long Island,234180,77.9,No Incident,0,PM Peak
+2026-02-03,Subway,E,Staten Island,3423733,81.9,Signal Problem,6,AM Peak
+2026-02-03,Subway,2,Manhattan,3674820,71.5,Track Work,23,Evening
+2026-02-03,Bus,Q10,Queens,1442798,76.4,Mechanical Issue,6,PM Peak
+2026-02-03,Bus,Q10,Westchester,1362725,70.4,Weather,18,PM Peak
+2026-02-03,LIRR,Long Beach,Bronx,273789,77.7,Track Work,24,Evening
+2026-02-03,LIRR,Ronkonkoma,Staten Island,277618,72.7,Weather,25,PM Peak
+2026-02-03,Metro-North,New Haven,Bronx,266038,75.2,Police Activity,8,Midday
+2026-02-03,Metro-North,Hudson,Staten Island,255674,74.8,Weather,11,PM Peak
+2026-02-04,Subway,6,Manhattan,3913906,67.1,Weather,27,PM Peak
+2026-02-04,Subway,Q,Brooklyn,3655737,75.3,Mechanical Issue,13,Midday
+2026-02-04,Subway,1,Brooklyn,3904277,70.0,Signal Problem,10,Evening
+2026-02-04,Bus,Q10,Manhattan,1404603,79.2,Track Work,43,Midday
+2026-02-04,Bus,S79,Long Island,1286163,78.4,Track Work,51,Midday
+2026-02-04,LIRR,Port Washington,Brooklyn,278455,77.6,Track Work,13,PM Peak
+2026-02-04,LIRR,Babylon,Staten Island,269299,68.9,Police Activity,9,Midday
+2026-02-04,LIRR,Port Washington,Manhattan,253670,81.3,Staffing,9,Evening
+2026-02-04,Metro-North,Hudson,Long Island,193601,73.1,Signal Problem,51,PM Peak
+2026-02-04,Metro-North,New Haven,Bronx,217249,84.4,No Incident,0,AM Peak
+2026-02-04,Metro-North,New Haven,Staten Island,235848,77.3,Mechanical Issue,37,Midday
+2026-02-04,Metro-North,New Haven,Long Island,217059,71.2,Signal Problem,31,PM Peak
+2026-02-05,Subway,5,Manhattan,3413971,69.3,Track Work,40,PM Peak
+2026-02-05,Subway,L,Westchester,3947813,76.4,No Incident,0,PM Peak
+2026-02-05,Subway,1,Staten Island,3786379,76.0,Track Work,12,PM Peak
+2026-02-05,Bus,M15,Long Island,1387215,81.1,Police Activity,10,AM Peak
+2026-02-05,Bus,B46,Manhattan,1479708,79.0,Track Work,4,PM Peak
+2026-02-05,Bus,Q10,Westchester,1527612,76.3,Signal Problem,13,Evening
+2026-02-05,LIRR,Babylon,Westchester,268588,79.1,No Incident,0,AM Peak
+2026-02-05,LIRR,Port Washington,Staten Island,249637,78.8,Mechanical Issue,14,AM Peak
+2026-02-05,Metro-North,Harlem,Queens,248858,73.4,Staffing,20,PM Peak
+2026-02-05,Metro-North,Harlem,Queens,216050,88.8,No Incident,0,Evening
+2026-02-05,Metro-North,Harlem,Manhattan,233042,82.9,Crowding,6,PM Peak
+2026-02-06,Subway,Q,Staten Island,3893753,81.5,Weather,10,PM Peak
+2026-02-06,Subway,4,Staten Island,3688311,73.8,Track Work,6,AM Peak
+2026-02-06,Subway,A,Long Island,3527262,76.9,Track Work,29,Midday
+2026-02-06,Bus,S79,Westchester,1391931,73.5,No Incident,0,AM Peak
+2026-02-06,Bus,Q60,Staten Island,1383143,66.9,Weather,15,PM Peak
+2026-02-06,Bus,Q60,Queens,1329888,81.4,No Incident,0,Midday
+2026-02-06,LIRR,Babylon,Manhattan,241639,77.4,No Incident,0,Midday
+2026-02-06,LIRR,Hempstead,Long Island,239846,74.7,Mechanical Issue,15,PM Peak
+2026-02-06,LIRR,Port Washington,Staten Island,251881,79.9,No Incident,0,Midday
+2026-02-06,LIRR,Long Beach,Westchester,288601,80.4,No Incident,0,AM Peak
+2026-02-06,Metro-North,New Haven,Brooklyn,210816,72.1,Mechanical Issue,45,AM Peak
+2026-02-06,Metro-North,Harlem,Bronx,225293,69.3,Mechanical Issue,21,AM Peak
+2026-02-06,Metro-North,New Haven,Westchester,249564,72.4,Weather,14,PM Peak
+2026-02-07,Subway,1,Manhattan,2237448,70.9,Signal Problem,15,PM Peak
+2026-02-07,Subway,3,Queens,2586876,74.8,Crowding,8,AM Peak
+2026-02-07,Bus,B46,Bronx,727937,79.2,No Incident,0,PM Peak
+2026-02-07,Bus,S79,Staten Island,1048003,72.6,No Incident,0,AM Peak
+2026-02-07,LIRR,Babylon,Brooklyn,148436,77.1,No Incident,0,PM Peak
+2026-02-07,LIRR,Babylon,Manhattan,176664,72.9,Police Activity,30,AM Peak
+2026-02-07,LIRR,Babylon,Bronx,162178,77.1,Mechanical Issue,8,Midday
+2026-02-07,Metro-North,Hudson,Long Island,168673,78.8,Crowding,4,PM Peak
+2026-02-07,Metro-North,Hudson,Bronx,109219,81.3,Signal Problem,3,PM Peak
+2026-02-07,Metro-North,Harlem,Queens,172199,83.2,Signal Problem,11,AM Peak
+2026-02-07,Metro-North,Hudson,Long Island,185340,76.5,Signal Problem,6,AM Peak
+2026-02-08,Subway,Q,Brooklyn,2356059,77.7,Signal Problem,11,Midday
+2026-02-08,Subway,3,Westchester,2075607,82.0,Track Work,7,PM Peak
+2026-02-08,Bus,Bx12,Brooklyn,804072,87.1,Crowding,20,PM Peak
+2026-02-08,Bus,Q60,Bronx,905931,75.4,No Incident,0,AM Peak
+2026-02-08,Bus,M15,Long Island,801575,73.4,Staffing,6,Evening
+2026-02-08,LIRR,Hempstead,Long Island,130000,77.6,No Incident,0,PM Peak
+2026-02-08,LIRR,Port Washington,Westchester,117416,81.6,No Incident,0,PM Peak
+2026-02-08,LIRR,Long Beach,Long Island,171000,82.9,Signal Problem,30,Midday
+2026-02-08,Metro-North,Harlem,Queens,105054,70.5,Weather,3,Evening
+2026-02-08,Metro-North,Hudson,Long Island,130785,82.3,Track Work,18,Midday
+2026-02-08,Metro-North,Hudson,Manhattan,157736,71.6,Track Work,17,Midday
+2026-02-08,Metro-North,Harlem,Brooklyn,142246,72.7,Signal Problem,19,PM Peak
+2026-02-09,Subway,A,Staten Island,4037625,76.0,No Incident,0,Midday
+2026-02-09,Subway,L,Long Island,3280138,80.6,Crowding,3,PM Peak
+2026-02-09,Bus,B44,Brooklyn,1345523,81.6,No Incident,0,AM Peak
+2026-02-09,Bus,S79,Westchester,1479622,67.8,Police Activity,31,PM Peak
+2026-02-09,Bus,Q10,Queens,1264783,80.9,No Incident,0,PM Peak
+2026-02-09,LIRR,Ronkonkoma,Manhattan,270014,73.2,Track Work,36,AM Peak
+2026-02-09,LIRR,Babylon,Brooklyn,274608,70.8,Mechanical Issue,19,AM Peak
+2026-02-09,LIRR,Babylon,Queens,260195,76.2,No Incident,0,PM Peak
+2026-02-09,LIRR,Ronkonkoma,Manhattan,238319,87.7,No Incident,0,PM Peak
+2026-02-09,Metro-North,Harlem,Staten Island,218519,77.7,Crowding,42,Evening
+2026-02-09,Metro-North,Hudson,Brooklyn,210024,70.0,Track Work,7,Evening
+2026-02-10,Subway,E,Staten Island,4373653,75.8,Signal Problem,41,PM Peak
+2026-02-10,Subway,1,Queens,3556769,77.7,Staffing,23,Midday
+2026-02-10,Bus,Bx12,Manhattan,1473737,79.4,Crowding,16,PM Peak
+2026-02-10,Bus,B44,Manhattan,1442092,75.9,No Incident,0,PM Peak
+2026-02-10,Bus,Q60,Brooklyn,1328787,73.0,Signal Problem,18,Midday
+2026-02-10,LIRR,Ronkonkoma,Long Island,260974,81.9,Weather,26,Evening
+2026-02-10,LIRR,Long Beach,Westchester,242936,75.5,Signal Problem,18,PM Peak
+2026-02-10,LIRR,Babylon,Staten Island,260881,74.1,Signal Problem,25,PM Peak
+2026-02-10,Metro-North,Harlem,Manhattan,227086,79.7,Signal Problem,13,PM Peak
+2026-02-10,Metro-North,Hudson,Staten Island,227804,75.3,Staffing,3,AM Peak
+2026-02-11,Subway,5,Queens,3264006,72.5,Crowding,42,PM Peak
+2026-02-11,Subway,E,Westchester,4056800,67.6,Weather,20,Evening
+2026-02-11,Bus,Q60,Staten Island,1569496,79.5,Mechanical Issue,7,AM Peak
+2026-02-11,Bus,B46,Manhattan,1557195,74.6,Track Work,25,PM Peak
+2026-02-11,Bus,S79,Brooklyn,1316815,80.8,No Incident,0,Midday
+2026-02-11,Bus,Q10,Long Island,1544460,80.2,No Incident,0,PM Peak
+2026-02-11,LIRR,Hempstead,Staten Island,269237,84.1,No Incident,0,PM Peak
+2026-02-11,LIRR,Port Washington,Long Island,218483,84.1,Crowding,6,PM Peak
+2026-02-11,LIRR,Port Washington,Bronx,232823,79.4,Mechanical Issue,8,AM Peak
+2026-02-11,Metro-North,New Haven,Westchester,220898,70.5,Track Work,28,PM Peak
+2026-02-11,Metro-North,Harlem,Manhattan,217725,74.3,Mechanical Issue,15,Midday
+2026-02-11,Metro-North,New Haven,Manhattan,213490,71.1,Staffing,16,AM Peak
+2026-02-12,Subway,A,Queens,3307310,72.5,No Incident,0,PM Peak
+2026-02-12,Subway,R,Westchester,3704604,76.5,No Incident,0,PM Peak
+2026-02-12,Subway,E,Bronx,3668846,86.0,Mechanical Issue,18,PM Peak
+2026-02-12,Subway,F,Bronx,3703965,84.3,Crowding,9,Midday
+2026-02-12,Bus,B44,Staten Island,1368520,76.1,Mechanical Issue,14,Evening
+2026-02-12,Bus,Q60,Brooklyn,1483526,72.3,No Incident,0,Midday
+2026-02-12,Bus,Bx12,Staten Island,1535078,82.4,No Incident,0,PM Peak
+2026-02-12,LIRR,Hempstead,Long Island,201345,80.4,No Incident,0,PM Peak
+2026-02-12,LIRR,Ronkonkoma,Bronx,259435,72.2,Signal Problem,18,PM Peak
+2026-02-12,LIRR,Port Washington,Long Island,319146,74.7,Weather,60,AM Peak
+2026-02-12,Metro-North,New Haven,Westchester,245014,73.2,Mechanical Issue,19,PM Peak
+2026-02-12,Metro-North,Hudson,Long Island,215967,77.4,Mechanical Issue,5,Evening
+2026-02-12,Metro-North,Hudson,Staten Island,232263,72.8,Mechanical Issue,38,Evening
+2026-02-12,Metro-North,Harlem,Staten Island,239250,79.7,Track Work,5,Midday
+2026-02-13,Subway,Q,Queens,3509328,73.3,No Incident,0,PM Peak
+2026-02-13,Subway,E,Staten Island,3200717,78.5,Staffing,15,AM Peak
+2026-02-13,Subway,6,Queens,3148073,65.3,Staffing,23,PM Peak
+2026-02-13,Subway,A,Queens,3916106,73.1,Track Work,20,PM Peak
+2026-02-13,Bus,Q10,Manhattan,1472709,75.7,Mechanical Issue,17,AM Peak
+2026-02-13,Bus,M15,Westchester,1509125,71.5,No Incident,0,AM Peak
+2026-02-13,LIRR,Ronkonkoma,Manhattan,281878,81.9,Signal Problem,11,PM Peak
+2026-02-13,LIRR,Hempstead,Staten Island,262432,82.5,Mechanical Issue,11,PM Peak
+2026-02-13,Metro-North,New Haven,Long Island,257846,72.7,Signal Problem,13,Evening
+2026-02-13,Metro-North,New Haven,Manhattan,251965,77.4,Signal Problem,21,Midday
+2026-02-14,Subway,L,Westchester,2068954,74.2,Crowding,21,Evening
+2026-02-14,Subway,F,Staten Island,2428275,79.0,No Incident,0,AM Peak
+2026-02-14,Subway,N,Westchester,2276163,82.4,No Incident,0,PM Peak
+2026-02-14,Subway,N,Westchester,1810013,80.3,Weather,12,AM Peak
+2026-02-14,Bus,Q10,Queens,980684,81.0,No Incident,0,PM Peak
+2026-02-14,Bus,Q10,Manhattan,846035,77.7,Police Activity,6,AM Peak
+2026-02-14,LIRR,Hempstead,Manhattan,125689,80.0,Signal Problem,29,Midday
+2026-02-14,LIRR,Long Beach,Manhattan,171376,74.1,No Incident,0,Midday
+2026-02-14,LIRR,Long Beach,Westchester,190822,63.3,Signal Problem,32,AM Peak
+2026-02-14,LIRR,Port Washington,Long Island,159703,70.1,Mechanical Issue,36,Midday
+2026-02-14,Metro-North,Harlem,Westchester,137318,79.0,Weather,26,AM Peak
+2026-02-14,Metro-North,New Haven,Manhattan,142306,76.8,Mechanical Issue,18,Midday
+2026-02-15,Subway,L,Bronx,2800851,75.1,Staffing,10,Evening
+2026-02-15,Subway,F,Brooklyn,2808300,80.7,Mechanical Issue,10,PM Peak
+2026-02-15,Subway,4,Long Island,2282025,76.1,Crowding,16,PM Peak
+2026-02-15,Bus,B44,Bronx,710533,78.4,No Incident,0,Midday
+2026-02-15,Bus,S79,Brooklyn,924645,74.4,Track Work,34,Evening
+2026-02-15,Bus,S79,Westchester,664370,77.7,Weather,21,PM Peak
+2026-02-15,Bus,Bx12,Manhattan,729853,76.5,Staffing,21,AM Peak
+2026-02-15,LIRR,Ronkonkoma,Queens,190086,75.9,Track Work,19,PM Peak
+2026-02-15,LIRR,Hempstead,Staten Island,150542,74.0,No Incident,0,PM Peak
+2026-02-15,LIRR,Babylon,Bronx,132516,81.0,Track Work,36,Midday
+2026-02-15,Metro-North,Harlem,Queens,133087,72.9,No Incident,0,AM Peak
+2026-02-15,Metro-North,Hudson,Staten Island,132755,71.5,No Incident,0,Evening
+2026-02-15,Metro-North,Harlem,Queens,141738,78.7,Staffing,40,AM Peak
+2026-02-15,Metro-North,Hudson,Staten Island,135069,77.1,Track Work,11,Midday
+2026-02-16,Subway,Q,Westchester,4031970,70.7,No Incident,0,AM Peak
+2026-02-16,Subway,4,Westchester,3732709,77.5,Mechanical Issue,18,AM Peak
+2026-02-16,Subway,N,Queens,3762830,75.8,Crowding,12,AM Peak
+2026-02-16,Subway,A,Long Island,3248439,79.0,No Incident,0,AM Peak
+2026-02-16,Bus,Q10,Bronx,1355625,72.1,Signal Problem,24,AM Peak
+2026-02-16,Bus,B44,Westchester,1538773,74.9,Mechanical Issue,12,Midday
+2026-02-16,LIRR,Babylon,Westchester,277086,80.7,No Incident,0,PM Peak
+2026-02-16,LIRR,Babylon,Staten Island,263828,72.7,Staffing,28,Evening
+2026-02-16,Metro-North,Harlem,Staten Island,213188,73.0,Track Work,3,AM Peak
+2026-02-16,Metro-North,New Haven,Westchester,238595,81.3,No Incident,0,PM Peak
+2026-02-16,Metro-North,Hudson,Staten Island,252169,75.6,Mechanical Issue,9,PM Peak
+2026-02-16,Metro-North,Hudson,Brooklyn,254565,84.3,Staffing,6,PM Peak
+2026-02-17,Subway,L,Queens,3907665,79.4,Crowding,7,PM Peak
+2026-02-17,Subway,2,Long Island,3685853,75.9,Weather,3,AM Peak
+2026-02-17,Subway,R,Long Island,3996543,75.9,Track Work,24,PM Peak
+2026-02-17,Subway,L,Brooklyn,4027481,85.8,Signal Problem,3,AM Peak
+2026-02-17,Bus,B46,Brooklyn,1394412,70.3,Mechanical Issue,23,AM Peak
+2026-02-17,Bus,M15,Staten Island,1581978,75.2,Mechanical Issue,28,Midday
+2026-02-17,LIRR,Hempstead,Westchester,213853,77.1,Signal Problem,3,PM Peak
+2026-02-17,LIRR,Long Beach,Queens,289789,76.6,Signal Problem,17,AM Peak
+2026-02-17,Metro-North,New Haven,Brooklyn,239692,72.4,No Incident,0,Midday
+2026-02-17,Metro-North,Harlem,Brooklyn,187859,74.2,Crowding,34,PM Peak
+2026-02-17,Metro-North,Harlem,Manhattan,225847,77.5,Weather,21,Midday
+2026-02-17,Metro-North,Harlem,Long Island,240283,75.0,No Incident,0,Evening
+2026-02-18,Subway,4,Queens,3609875,81.5,No Incident,0,Midday
+2026-02-18,Subway,L,Bronx,3702532,81.8,Crowding,11,AM Peak
+2026-02-18,Subway,R,Westchester,3360720,79.1,Mechanical Issue,7,PM Peak
+2026-02-18,Subway,6,Brooklyn,3625355,80.5,No Incident,0,PM Peak
+2026-02-18,Bus,Q10,Long Island,1408488,74.8,Crowding,7,Midday
+2026-02-18,Bus,B46,Westchester,1416382,76.5,Track Work,13,Midday
+2026-02-18,LIRR,Long Beach,Staten Island,257151,73.4,Staffing,15,PM Peak
+2026-02-18,LIRR,Long Beach,Staten Island,297240,71.2,Police Activity,30,AM Peak
+2026-02-18,LIRR,Long Beach,Staten Island,245995,70.7,No Incident,0,Midday
+2026-02-18,Metro-North,Hudson,Brooklyn,225993,70.8,No Incident,0,AM Peak
+2026-02-18,Metro-North,Hudson,Queens,248818,85.9,No Incident,0,PM Peak
+2026-02-18,Metro-North,Harlem,Bronx,225334,67.5,Police Activity,37,PM Peak
+2026-02-18,Metro-North,New Haven,Brooklyn,264092,76.8,Mechanical Issue,7,Midday
+2026-02-19,Subway,Q,Brooklyn,3468471,68.8,Weather,33,AM Peak
+2026-02-19,Subway,5,Manhattan,3689394,72.7,Crowding,3,PM Peak
+2026-02-19,Subway,1,Westchester,3416899,75.1,No Incident,0,Midday
+2026-02-19,Bus,Q60,Brooklyn,1668739,71.8,No Incident,0,AM Peak
+2026-02-19,Bus,Q60,Westchester,1480670,75.0,Crowding,3,PM Peak
+2026-02-19,Bus,Q10,Long Island,1394615,85.9,Mechanical Issue,18,AM Peak
+2026-02-19,Bus,M15,Westchester,1284706,73.1,Mechanical Issue,41,AM Peak
+2026-02-19,LIRR,Port Washington,Queens,243416,73.0,Staffing,10,AM Peak
+2026-02-19,LIRR,Babylon,Queens,237606,74.0,Signal Problem,19,Evening
+2026-02-19,Metro-North,New Haven,Bronx,212630,67.7,Staffing,33,Midday
+2026-02-19,Metro-North,Harlem,Brooklyn,239872,76.0,No Incident,0,Evening
+2026-02-19,Metro-North,Harlem,Manhattan,226007,77.4,Signal Problem,22,Evening
+2026-02-20,Subway,E,Westchester,3932408,72.4,No Incident,0,AM Peak
+2026-02-20,Subway,L,Manhattan,3830279,77.6,Police Activity,6,AM Peak
+2026-02-20,Subway,F,Manhattan,3843975,70.3,No Incident,0,Midday
+2026-02-20,Bus,B44,Westchester,1467030,80.3,No Incident,0,AM Peak
+2026-02-20,Bus,M15,Queens,1433450,67.4,Track Work,41,AM Peak
+2026-02-20,LIRR,Port Washington,Brooklyn,268319,71.8,Signal Problem,32,AM Peak
+2026-02-20,LIRR,Hempstead,Staten Island,277613,74.8,Track Work,32,AM Peak
+2026-02-20,Metro-North,Harlem,Staten Island,236518,85.4,No Incident,0,PM Peak
+2026-02-20,Metro-North,Harlem,Manhattan,216202,79.8,Crowding,24,PM Peak
+2026-02-21,Subway,6,Brooklyn,2085082,82.0,Police Activity,16,AM Peak
+2026-02-21,Subway,F,Queens,2327756,75.5,Signal Problem,44,AM Peak
+2026-02-21,Bus,S79,Manhattan,875283,84.2,Crowding,35,PM Peak
+2026-02-21,Bus,M15,Brooklyn,807985,57.8,Crowding,39,Evening
+2026-02-21,Bus,B46,Brooklyn,994471,75.8,Staffing,20,PM Peak
+2026-02-21,LIRR,Babylon,Westchester,162004,82.0,Signal Problem,12,PM Peak
+2026-02-21,LIRR,Long Beach,Brooklyn,160377,71.3,Crowding,4,AM Peak
+2026-02-21,LIRR,Port Washington,Long Island,120833,78.2,No Incident,0,AM Peak
+2026-02-21,LIRR,Hempstead,Staten Island,148793,75.1,Signal Problem,7,PM Peak
+2026-02-21,Metro-North,New Haven,Queens,120325,81.5,Track Work,40,AM Peak
+2026-02-21,Metro-North,Hudson,Staten Island,123756,82.5,Staffing,31,PM Peak
+2026-02-21,Metro-North,New Haven,Westchester,153478,77.2,Crowding,23,Midday
+2026-02-21,Metro-North,Harlem,Brooklyn,145293,70.7,No Incident,0,Evening
+2026-02-22,Subway,C,Manhattan,2533654,71.5,No Incident,0,Evening
+2026-02-22,Subway,4,Bronx,2667283,80.7,Track Work,3,Evening
+2026-02-22,Subway,J,Manhattan,2273752,70.4,Track Work,38,PM Peak
+2026-02-22,Subway,R,Bronx,2292724,77.0,No Incident,0,AM Peak
+2026-02-22,Bus,Q60,Manhattan,905460,76.3,Signal Problem,16,PM Peak
+2026-02-22,Bus,Q10,Westchester,847475,85.5,Mechanical Issue,12,Evening
+2026-02-22,LIRR,Ronkonkoma,Manhattan,151461,69.6,No Incident,0,Evening
+2026-02-22,LIRR,Hempstead,Westchester,155883,72.6,Signal Problem,39,AM Peak
+2026-02-22,LIRR,Hempstead,Long Island,166290,68.3,Mechanical Issue,5,AM Peak
+2026-02-22,LIRR,Ronkonkoma,Brooklyn,158149,82.3,Weather,23,AM Peak
+2026-02-22,Metro-North,New Haven,Westchester,136116,82.0,Weather,10,PM Peak
+2026-02-22,Metro-North,Hudson,Long Island,147815,79.1,No Incident,0,PM Peak
+2026-02-22,Metro-North,New Haven,Long Island,128127,79.1,No Incident,0,PM Peak
+2026-02-22,Metro-North,New Haven,Staten Island,104303,84.1,Police Activity,17,Evening
+2026-02-23,Subway,6,Long Island,3904508,79.9,Track Work,6,Midday
+2026-02-23,Subway,Q,Westchester,3878130,75.9,Signal Problem,29,AM Peak
+2026-02-23,Bus,M15,Manhattan,1602849,71.3,Track Work,3,Evening
+2026-02-23,Bus,Q10,Westchester,1460693,71.4,No Incident,0,Midday
+2026-02-23,Bus,M15,Staten Island,1329687,78.7,Crowding,5,AM Peak
+2026-02-23,LIRR,Babylon,Staten Island,249377,75.3,Crowding,13,Midday
+2026-02-23,LIRR,Ronkonkoma,Manhattan,242304,78.2,No Incident,0,PM Peak
+2026-02-23,LIRR,Port Washington,Manhattan,274140,75.4,No Incident,0,AM Peak
+2026-02-23,Metro-North,Harlem,Queens,261651,74.1,Mechanical Issue,17,AM Peak
+2026-02-23,Metro-North,Harlem,Staten Island,250797,80.5,Crowding,9,Midday
+2026-02-23,Metro-North,Hudson,Bronx,232591,78.3,Track Work,5,PM Peak
+2026-02-23,Metro-North,New Haven,Staten Island,256990,74.2,Signal Problem,13,AM Peak
+2026-02-24,Subway,1,Staten Island,3379679,85.3,Signal Problem,15,Evening
+2026-02-24,Subway,4,Westchester,3876531,82.3,Crowding,12,PM Peak
+2026-02-24,Subway,Q,Queens,4057218,82.2,No Incident,0,Midday
+2026-02-24,Bus,B44,Long Island,1541828,74.0,Signal Problem,36,AM Peak
+2026-02-24,Bus,M15,Westchester,1374160,72.6,Police Activity,4,PM Peak
+2026-02-24,Bus,S79,Westchester,1396116,90.4,No Incident,0,AM Peak
+2026-02-24,LIRR,Babylon,Staten Island,218334,74.8,Weather,30,AM Peak
+2026-02-24,LIRR,Ronkonkoma,Westchester,235522,79.1,No Incident,0,PM Peak
+2026-02-24,LIRR,Babylon,Westchester,258914,74.4,Signal Problem,4,Evening
+2026-02-24,Metro-North,New Haven,Brooklyn,213004,70.5,Track Work,9,AM Peak
+2026-02-24,Metro-North,Hudson,Bronx,240964,81.8,No Incident,0,AM Peak
+2026-02-24,Metro-North,Harlem,Bronx,215610,81.6,Signal Problem,16,Evening
+2026-02-25,Subway,3,Staten Island,3856771,77.5,No Incident,0,AM Peak
+2026-02-25,Subway,2,Westchester,3818316,77.6,Crowding,8,AM Peak
+2026-02-25,Subway,J,Staten Island,3382432,72.0,Weather,15,Midday
+2026-02-25,Bus,B44,Queens,1492983,76.5,Track Work,12,AM Peak
+2026-02-25,Bus,M15,Manhattan,1253788,73.4,Signal Problem,21,AM Peak
+2026-02-25,Bus,B46,Staten Island,1511829,78.4,No Incident,0,PM Peak
+2026-02-25,LIRR,Hempstead,Brooklyn,242254,83.8,No Incident,0,Evening
+2026-02-25,LIRR,Hempstead,Manhattan,261579,75.3,Police Activity,10,Evening
+2026-02-25,LIRR,Babylon,Manhattan,285978,78.2,Staffing,17,AM Peak
+2026-02-25,LIRR,Long Beach,Bronx,218174,76.6,Weather,15,PM Peak
+2026-02-25,Metro-North,New Haven,Manhattan,226680,76.1,Signal Problem,39,AM Peak
+2026-02-25,Metro-North,Hudson,Long Island,212574,77.0,Staffing,12,AM Peak
+2026-02-26,Subway,F,Queens,3994919,86.7,Track Work,3,Midday
+2026-02-26,Subway,F,Queens,3199550,73.4,Crowding,31,AM Peak
+2026-02-26,Subway,R,Staten Island,3526671,69.6,Police Activity,25,PM Peak
+2026-02-26,Subway,N,Bronx,3268964,73.4,No Incident,0,Midday
+2026-02-26,Bus,Q10,Westchester,1597756,70.0,Weather,44,Midday
+2026-02-26,Bus,B44,Queens,1443356,67.1,Track Work,5,PM Peak
+2026-02-26,Bus,B46,Brooklyn,1600672,79.7,Signal Problem,15,Evening
+2026-02-26,Bus,B44,Long Island,1725395,76.1,No Incident,0,PM Peak
+2026-02-26,LIRR,Long Beach,Bronx,246401,71.0,Weather,18,AM Peak
+2026-02-26,LIRR,Ronkonkoma,Manhattan,258213,72.0,Signal Problem,16,PM Peak
+2026-02-26,LIRR,Hempstead,Long Island,240981,79.3,Track Work,16,Midday
+2026-02-26,LIRR,Ronkonkoma,Queens,237528,80.7,No Incident,0,PM Peak
+2026-02-26,Metro-North,New Haven,Manhattan,222661,78.0,Signal Problem,9,AM Peak
+2026-02-26,Metro-North,Harlem,Long Island,266337,79.2,No Incident,0,PM Peak
+2026-02-26,Metro-North,New Haven,Bronx,216948,76.4,Signal Problem,4,Evening
+2026-02-26,Metro-North,Hudson,Brooklyn,237081,68.8,Track Work,25,PM Peak
+2026-02-27,Subway,6,Manhattan,3556887,79.8,Track Work,25,Evening
+2026-02-27,Subway,E,Manhattan,3601466,72.1,Weather,7,Evening
+2026-02-27,Subway,L,Long Island,4060816,68.4,Track Work,30,PM Peak
+2026-02-27,Bus,S79,Westchester,1397249,69.4,Police Activity,7,Evening
+2026-02-27,Bus,S79,Brooklyn,1351077,88.3,No Incident,0,Midday
+2026-02-27,Bus,Bx12,Bronx,1354584,77.7,No Incident,0,Midday
+2026-02-27,Bus,Q60,Westchester,1303510,80.4,Crowding,6,Midday
+2026-02-27,LIRR,Ronkonkoma,Manhattan,261055,83.1,Weather,10,PM Peak
+2026-02-27,LIRR,Port Washington,Brooklyn,230748,73.4,Crowding,12,PM Peak
+2026-02-27,LIRR,Babylon,Staten Island,256648,70.1,Track Work,5,Midday
+2026-02-27,LIRR,Port Washington,Manhattan,240430,90.2,Signal Problem,18,PM Peak
+2026-02-27,Metro-North,Harlem,Long Island,215348,75.8,Signal Problem,11,Midday
+2026-02-27,Metro-North,Harlem,Brooklyn,222430,74.2,Signal Problem,11,Midday
+2026-02-27,Metro-North,Harlem,Manhattan,233807,77.5,No Incident,0,AM Peak
+2026-02-28,Subway,R,Long Island,2305207,68.3,Crowding,5,Evening
+2026-02-28,Subway,2,Manhattan,1566914,74.3,Crowding,50,PM Peak
+2026-02-28,Subway,C,Bronx,1860690,80.0,Signal Problem,11,AM Peak
+2026-02-28,Subway,1,Staten Island,2740495,70.8,Police Activity,22,AM Peak
+2026-02-28,Bus,S79,Long Island,874016,79.3,No Incident,0,PM Peak
+2026-02-28,Bus,Bx12,Westchester,830463,83.1,No Incident,0,PM Peak
+2026-02-28,LIRR,Long Beach,Queens,162682,76.7,Mechanical Issue,43,Midday
+2026-02-28,LIRR,Long Beach,Westchester,191455,74.2,Signal Problem,12,PM Peak
+2026-02-28,LIRR,Long Beach,Bronx,155436,84.8,Track Work,19,PM Peak
+2026-02-28,LIRR,Port Washington,Brooklyn,147828,72.6,Staffing,13,PM Peak
+2026-02-28,Metro-North,Hudson,Queens,149320,78.9,Weather,3,Evening
+2026-02-28,Metro-North,New Haven,Staten Island,146107,76.1,No Incident,0,Evening
+2026-03-01,Subway,C,Manhattan,2145632,80.9,Staffing,5,PM Peak
+2026-03-01,Subway,4,Staten Island,2144751,73.2,Signal Problem,25,PM Peak
+2026-03-01,Subway,1,Manhattan,2678784,81.6,No Incident,0,AM Peak
+2026-03-01,Subway,R,Manhattan,2323601,74.6,Track Work,9,Midday
+2026-03-01,Bus,B46,Brooklyn,728364,78.5,Staffing,40,PM Peak
+2026-03-01,Bus,Q10,Manhattan,899076,76.5,Crowding,9,AM Peak
+2026-03-01,Bus,B46,Westchester,929486,76.6,No Incident,0,Midday
+2026-03-01,LIRR,Hempstead,Manhattan,181464,76.5,Track Work,16,PM Peak
+2026-03-01,LIRR,Long Beach,Staten Island,164314,72.7,No Incident,0,PM Peak
+2026-03-01,LIRR,Ronkonkoma,Bronx,183380,75.3,Police Activity,18,PM Peak
+2026-03-01,LIRR,Port Washington,Staten Island,143531,84.5,No Incident,0,Midday
+2026-03-01,Metro-North,Hudson,Long Island,144134,74.2,Crowding,22,Evening
+2026-03-01,Metro-North,Hudson,Queens,150503,79.2,No Incident,0,AM Peak
+2026-03-01,Metro-North,Harlem,Queens,108388,83.4,No Incident,0,AM Peak
+2026-03-02,Subway,2,Westchester,4130453,78.1,No Incident,0,Evening
+2026-03-02,Subway,R,Bronx,3933711,71.8,No Incident,0,Evening
+2026-03-02,Subway,L,Long Island,4159587,81.3,No Incident,0,Midday
+2026-03-02,Bus,M15,Westchester,1432668,73.1,Signal Problem,8,Midday
+2026-03-02,Bus,M15,Long Island,1548825,73.1,No Incident,0,PM Peak
+2026-03-02,Bus,S79,Long Island,1475269,79.4,Signal Problem,10,AM Peak
+2026-03-02,Bus,Bx12,Westchester,1485206,78.5,Mechanical Issue,12,Evening
+2026-03-02,LIRR,Ronkonkoma,Bronx,269813,77.6,No Incident,0,PM Peak
+2026-03-02,LIRR,Long Beach,Queens,290394,77.9,No Incident,0,AM Peak
+2026-03-02,LIRR,Ronkonkoma,Queens,256545,76.1,No Incident,0,Midday
+2026-03-02,Metro-North,New Haven,Queens,184937,74.8,No Incident,0,PM Peak
+2026-03-02,Metro-North,New Haven,Brooklyn,225476,74.9,Signal Problem,23,AM Peak
+2026-03-03,Subway,6,Westchester,3385099,88.4,Weather,8,PM Peak
+2026-03-03,Subway,J,Staten Island,2956711,82.8,Police Activity,31,PM Peak
+2026-03-03,Subway,2,Westchester,4063001,71.8,Crowding,3,PM Peak
+2026-03-03,Subway,Q,Bronx,3502367,66.9,Mechanical Issue,15,AM Peak
+2026-03-03,Bus,Q60,Long Island,1430951,84.0,No Incident,0,Midday
+2026-03-03,Bus,M15,Staten Island,1448148,72.1,Crowding,24,AM Peak
+2026-03-03,Bus,S79,Queens,1518406,79.2,No Incident,0,Midday
+2026-03-03,Bus,Bx12,Staten Island,1404023,77.8,No Incident,0,Evening
+2026-03-03,LIRR,Babylon,Staten Island,254898,66.4,No Incident,0,AM Peak
+2026-03-03,LIRR,Babylon,Staten Island,262031,64.9,Police Activity,40,Evening
+2026-03-03,Metro-North,Harlem,Long Island,251497,73.6,No Incident,0,PM Peak
+2026-03-03,Metro-North,Harlem,Long Island,233305,69.9,Signal Problem,25,PM Peak
+2026-03-03,Metro-North,Hudson,Queens,232629,79.4,No Incident,0,Midday
+2026-03-03,Metro-North,New Haven,Brooklyn,242019,79.3,Track Work,15,PM Peak
+2026-03-04,Subway,3,Staten Island,4060422,74.3,Staffing,24,Evening
+2026-03-04,Subway,F,Staten Island,3532803,86.9,Signal Problem,30,AM Peak
+2026-03-04,Subway,N,Manhattan,3900117,79.5,Mechanical Issue,6,Evening
+2026-03-04,Subway,N,Queens,3773436,79.5,Crowding,14,Midday
+2026-03-04,Bus,B44,Brooklyn,1523964,84.2,Police Activity,20,AM Peak
+2026-03-04,Bus,B46,Long Island,1451804,78.2,No Incident,0,Evening
+2026-03-04,Bus,Bx12,Manhattan,1426570,72.2,Track Work,39,PM Peak
+2026-03-04,LIRR,Long Beach,Brooklyn,269222,74.4,Mechanical Issue,8,AM Peak
+2026-03-04,LIRR,Hempstead,Staten Island,256203,80.4,Track Work,4,PM Peak
+2026-03-04,Metro-North,New Haven,Long Island,217246,77.8,Mechanical Issue,25,PM Peak
+2026-03-04,Metro-North,Hudson,Staten Island,242085,72.7,Track Work,41,Midday
+2026-03-05,Subway,3,Brooklyn,3612150,77.8,Signal Problem,23,Evening
+2026-03-05,Subway,F,Westchester,4092089,85.2,No Incident,0,AM Peak
+2026-03-05,Subway,Q,Manhattan,4101772,73.3,Crowding,9,PM Peak
+2026-03-05,Subway,E,Bronx,3449474,72.0,No Incident,0,PM Peak
+2026-03-05,Bus,B46,Queens,1311260,66.3,No Incident,0,AM Peak
+2026-03-05,Bus,M15,Long Island,1343843,77.5,Weather,3,Evening
+2026-03-05,LIRR,Port Washington,Brooklyn,252346,84.3,No Incident,0,PM Peak
+2026-03-05,LIRR,Ronkonkoma,Westchester,218042,69.3,No Incident,0,Evening
+2026-03-05,Metro-North,New Haven,Queens,254848,72.2,Signal Problem,24,AM Peak
+2026-03-05,Metro-North,New Haven,Long Island,198690,80.6,Mechanical Issue,3,AM Peak
+2026-03-05,Metro-North,Hudson,Long Island,239228,77.8,No Incident,0,Midday
+2026-03-05,Metro-North,Harlem,Brooklyn,229439,81.9,Police Activity,6,AM Peak
+2026-03-06,Subway,6,Brooklyn,3606821,78.9,Staffing,5,Evening
+2026-03-06,Subway,2,Brooklyn,3489537,71.4,Signal Problem,43,PM Peak
+2026-03-06,Bus,Bx12,Manhattan,1492878,67.2,Signal Problem,4,PM Peak
+2026-03-06,Bus,Q60,Long Island,1472123,78.1,Police Activity,21,Midday
+2026-03-06,Bus,B44,Westchester,1387347,83.1,No Incident,0,PM Peak
+2026-03-06,Bus,Bx12,Queens,1612346,82.7,Crowding,14,Midday
+2026-03-06,LIRR,Long Beach,Long Island,282214,72.8,Track Work,31,AM Peak
+2026-03-06,LIRR,Port Washington,Staten Island,251672,70.8,No Incident,0,AM Peak
+2026-03-06,LIRR,Long Beach,Manhattan,229844,76.7,Signal Problem,9,Midday
+2026-03-06,LIRR,Port Washington,Westchester,267529,73.8,Crowding,17,AM Peak
+2026-03-06,Metro-North,Harlem,Westchester,225662,79.9,Signal Problem,22,PM Peak
+2026-03-06,Metro-North,Hudson,Brooklyn,224317,71.0,Track Work,19,Evening
+2026-03-06,Metro-North,Hudson,Bronx,217355,74.6,Weather,54,PM Peak
+2026-03-06,Metro-North,Harlem,Long Island,203065,66.3,Mechanical Issue,21,PM Peak
+2026-03-07,Subway,L,Brooklyn,2724872,80.8,Signal Problem,9,PM Peak
+2026-03-07,Subway,E,Queens,2143767,71.9,Track Work,7,AM Peak
+2026-03-07,Subway,N,Westchester,2096472,84.0,No Incident,0,Evening
+2026-03-07,Subway,E,Staten Island,2605018,76.9,Track Work,11,PM Peak
+2026-03-07,Bus,Q10,Westchester,962309,73.1,Signal Problem,13,PM Peak
+2026-03-07,Bus,M15,Manhattan,1019068,86.3,No Incident,0,AM Peak
+2026-03-07,Bus,Bx12,Queens,748628,78.0,Police Activity,19,AM Peak
+2026-03-07,Bus,S79,Queens,941723,80.3,Crowding,14,PM Peak
+2026-03-07,LIRR,Babylon,Westchester,139405,76.3,Crowding,3,Midday
+2026-03-07,LIRR,Ronkonkoma,Long Island,133506,74.6,Signal Problem,9,PM Peak
+2026-03-07,LIRR,Babylon,Manhattan,165227,72.6,Staffing,29,Midday
+2026-03-07,Metro-North,New Haven,Staten Island,116339,83.5,Track Work,7,PM Peak
+2026-03-07,Metro-North,Hudson,Brooklyn,150629,77.2,No Incident,0,Midday
+2026-03-08,Subway,2,Westchester,2910724,77.3,Weather,7,AM Peak
+2026-03-08,Subway,6,Bronx,2382808,79.9,Crowding,20,PM Peak
+2026-03-08,Bus,Q60,Manhattan,797049,83.3,No Incident,0,AM Peak
+2026-03-08,Bus,B46,Manhattan,944343,71.0,No Incident,0,AM Peak
+2026-03-08,Bus,Bx12,Manhattan,769880,79.3,Track Work,24,PM Peak
+2026-03-08,Bus,Q60,Staten Island,1011364,71.2,No Incident,0,Evening
+2026-03-08,LIRR,Ronkonkoma,Queens,146882,83.7,Mechanical Issue,23,Midday
+2026-03-08,LIRR,Hempstead,Queens,145394,70.1,No Incident,0,PM Peak
+2026-03-08,Metro-North,Harlem,Bronx,129655,75.4,Crowding,8,AM Peak
+2026-03-08,Metro-North,Hudson,Bronx,142076,83.4,No Incident,0,PM Peak
+2026-03-08,Metro-North,Hudson,Brooklyn,150245,69.6,No Incident,0,AM Peak
+2026-03-09,Subway,1,Brooklyn,3695411,71.7,Track Work,40,PM Peak
+2026-03-09,Subway,Q,Manhattan,3554760,76.2,Staffing,13,PM Peak
+2026-03-09,Subway,A,Bronx,4407074,72.4,Signal Problem,6,PM Peak
+2026-03-09,Subway,2,Manhattan,3993936,89.1,Signal Problem,11,PM Peak
+2026-03-09,Bus,B46,Staten Island,1557415,75.4,Mechanical Issue,15,PM Peak
+2026-03-09,Bus,S79,Long Island,1352983,78.3,Mechanical Issue,7,PM Peak
+2026-03-09,LIRR,Babylon,Westchester,289739,69.1,Weather,12,AM Peak
+2026-03-09,LIRR,Hempstead,Brooklyn,286228,73.4,Signal Problem,16,Midday
+2026-03-09,LIRR,Ronkonkoma,Brooklyn,294402,70.3,Staffing,13,PM Peak
+2026-03-09,Metro-North,Harlem,Staten Island,231424,74.4,Track Work,27,Midday
+2026-03-09,Metro-North,New Haven,Westchester,263392,69.5,Police Activity,14,PM Peak
+2026-03-10,Subway,L,Bronx,4103324,83.7,No Incident,0,PM Peak
+2026-03-10,Subway,4,Staten Island,3791141,69.3,No Incident,0,PM Peak
+2026-03-10,Subway,5,Manhattan,4256008,76.3,No Incident,0,Evening
+2026-03-10,Subway,L,Westchester,3590711,88.5,No Incident,0,Evening
+2026-03-10,Bus,B44,Staten Island,1544267,79.2,Crowding,27,PM Peak
+2026-03-10,Bus,S79,Brooklyn,1491484,86.0,No Incident,0,PM Peak
+2026-03-10,Bus,S79,Bronx,1368473,74.5,Staffing,24,PM Peak
+2026-03-10,Bus,B44,Long Island,1304562,76.1,No Incident,0,PM Peak
+2026-03-10,LIRR,Port Washington,Queens,263315,77.8,No Incident,0,Evening
+2026-03-10,LIRR,Ronkonkoma,Queens,246877,78.7,Signal Problem,3,PM Peak
+2026-03-10,LIRR,Hempstead,Staten Island,267456,73.0,Track Work,29,PM Peak
+2026-03-10,LIRR,Port Washington,Queens,262495,78.9,Track Work,20,AM Peak
+2026-03-10,Metro-North,Hudson,Long Island,222864,79.2,Signal Problem,6,PM Peak
+2026-03-10,Metro-North,Harlem,Westchester,181809,71.1,Signal Problem,30,AM Peak
+2026-03-10,Metro-North,New Haven,Staten Island,244294,80.4,Police Activity,3,PM Peak
+2026-03-11,Subway,E,Westchester,4089092,76.1,No Incident,0,Midday
+2026-03-11,Subway,E,Long Island,3838704,76.3,Signal Problem,16,AM Peak
+2026-03-11,Subway,A,Long Island,4404268,71.7,Mechanical Issue,26,PM Peak
+2026-03-11,Bus,Q10,Westchester,1497724,68.9,No Incident,0,PM Peak
+2026-03-11,Bus,Q10,Manhattan,1497260,74.4,Crowding,23,PM Peak
+2026-03-11,Bus,Bx12,Staten Island,1302506,71.6,No Incident,0,AM Peak
+2026-03-11,LIRR,Port Washington,Staten Island,277565,73.5,Police Activity,30,PM Peak
+2026-03-11,LIRR,Long Beach,Westchester,250525,85.4,Staffing,12,AM Peak
+2026-03-11,LIRR,Ronkonkoma,Long Island,242310,77.7,Track Work,22,Evening
+2026-03-11,LIRR,Port Washington,Brooklyn,298318,71.3,Police Activity,6,AM Peak
+2026-03-11,Metro-North,New Haven,Westchester,255861,82.1,No Incident,0,AM Peak
+2026-03-11,Metro-North,Hudson,Long Island,234718,80.3,Crowding,5,Evening
+2026-03-11,Metro-North,New Haven,Brooklyn,214358,72.7,Police Activity,44,PM Peak
+2026-03-11,Metro-North,Hudson,Long Island,239590,77.2,No Incident,0,Midday
+2026-03-12,Subway,L,Queens,3891114,66.4,Signal Problem,23,AM Peak
+2026-03-12,Subway,A,Bronx,3347672,88.6,Signal Problem,4,Midday
+2026-03-12,Subway,F,Manhattan,3707183,79.2,Weather,12,Evening
+2026-03-12,Bus,Q10,Long Island,1296266,68.5,Crowding,20,PM Peak
+2026-03-12,Bus,S79,Long Island,1466489,62.8,Crowding,11,PM Peak
+2026-03-12,Bus,S79,Staten Island,1514899,79.5,No Incident,0,Evening
+2026-03-12,Bus,Q10,Queens,1240315,75.9,No Incident,0,PM Peak
+2026-03-12,LIRR,Ronkonkoma,Brooklyn,283384,78.1,Mechanical Issue,5,AM Peak
+2026-03-12,LIRR,Long Beach,Queens,326952,78.2,Crowding,27,AM Peak
+2026-03-12,LIRR,Hempstead,Long Island,262049,76.0,No Incident,0,PM Peak
+2026-03-12,LIRR,Babylon,Brooklyn,247910,79.2,Police Activity,25,PM Peak
+2026-03-12,Metro-North,Hudson,Staten Island,253915,72.4,Signal Problem,15,PM Peak
+2026-03-12,Metro-North,Harlem,Long Island,204444,70.8,Staffing,34,AM Peak
+2026-03-13,Subway,R,Brooklyn,3899378,85.8,No Incident,0,PM Peak
+2026-03-13,Subway,2,Long Island,3727669,74.3,Weather,15,PM Peak
+2026-03-13,Subway,N,Manhattan,4005508,83.2,Track Work,12,Evening
+2026-03-13,Subway,6,Queens,4307804,81.4,No Incident,0,PM Peak
+2026-03-13,Bus,M15,Staten Island,1555206,77.6,No Incident,0,PM Peak
+2026-03-13,Bus,Q60,Brooklyn,1492225,72.5,Police Activity,15,AM Peak
+2026-03-13,Bus,Q10,Bronx,1435514,73.5,No Incident,0,AM Peak
+2026-03-13,LIRR,Long Beach,Brooklyn,249390,74.7,Signal Problem,19,PM Peak
+2026-03-13,LIRR,Ronkonkoma,Bronx,276028,80.8,Police Activity,16,Evening
+2026-03-13,LIRR,Ronkonkoma,Queens,271464,75.4,Mechanical Issue,24,Evening
+2026-03-13,LIRR,Long Beach,Bronx,271737,73.5,Signal Problem,21,Evening
+2026-03-13,Metro-North,Harlem,Westchester,236974,75.7,Crowding,13,Midday
+2026-03-13,Metro-North,Harlem,Staten Island,215553,81.0,No Incident,0,PM Peak
+2026-03-13,Metro-North,New Haven,Brooklyn,239148,81.4,No Incident,0,Evening
+2026-03-14,Subway,L,Bronx,2231296,73.8,Police Activity,3,Evening
+2026-03-14,Subway,J,Staten Island,2260971,73.4,Crowding,9,PM Peak
+2026-03-14,Subway,R,Brooklyn,2710930,79.9,Track Work,11,AM Peak
+2026-03-14,Bus,B46,Westchester,1001821,70.6,No Incident,0,Midday
+2026-03-14,Bus,Q10,Staten Island,779555,74.0,Track Work,21,Evening
+2026-03-14,LIRR,Babylon,Manhattan,180359,75.2,Weather,17,Midday
+2026-03-14,LIRR,Hempstead,Manhattan,171082,76.7,Crowding,16,PM Peak
+2026-03-14,LIRR,Ronkonkoma,Manhattan,187312,82.6,Track Work,46,AM Peak
+2026-03-14,Metro-North,New Haven,Westchester,141573,79.1,No Incident,0,AM Peak
+2026-03-14,Metro-North,New Haven,Staten Island,149943,82.0,Mechanical Issue,7,AM Peak
+2026-03-14,Metro-North,Hudson,Long Island,153603,79.3,Weather,3,AM Peak
+2026-03-14,Metro-North,Hudson,Staten Island,129480,81.1,Staffing,22,PM Peak
+2026-03-15,Subway,3,Staten Island,2261642,69.5,Weather,31,Midday
+2026-03-15,Subway,2,Queens,2500159,81.3,Track Work,31,Midday
+2026-03-15,Subway,2,Bronx,1905154,76.2,No Incident,0,Midday
+2026-03-15,Subway,C,Brooklyn,2363474,69.7,Weather,16,AM Peak
+2026-03-15,Bus,Q60,Bronx,1089798,81.3,Staffing,11,AM Peak
+2026-03-15,Bus,M15,Bronx,771317,81.2,No Incident,0,AM Peak
+2026-03-15,Bus,S79,Queens,1033013,81.8,No Incident,0,Midday
+2026-03-15,LIRR,Port Washington,Manhattan,186062,74.3,Signal Problem,36,Midday
+2026-03-15,LIRR,Babylon,Queens,147026,84.1,No Incident,0,PM Peak
+2026-03-15,Metro-North,New Haven,Bronx,127057,77.5,Mechanical Issue,29,PM Peak
+2026-03-15,Metro-North,Harlem,Staten Island,144754,87.1,No Incident,0,Midday
+2026-03-16,Subway,C,Queens,3602050,77.5,No Incident,0,Midday
+2026-03-16,Subway,4,Queens,3292100,80.0,No Incident,0,Evening
+2026-03-16,Subway,1,Long Island,3505235,68.0,Mechanical Issue,6,AM Peak
+2026-03-16,Bus,S79,Manhattan,1662405,72.0,No Incident,0,AM Peak
+2026-03-16,Bus,M15,Bronx,1500736,83.9,Police Activity,24,PM Peak
+2026-03-16,Bus,Bx12,Long Island,1687284,72.5,Signal Problem,9,Evening
+2026-03-16,Bus,B44,Staten Island,1384778,68.1,Signal Problem,47,Evening
+2026-03-16,LIRR,Port Washington,Manhattan,270108,76.1,Crowding,34,AM Peak
+2026-03-16,LIRR,Port Washington,Westchester,278057,76.5,Track Work,11,PM Peak
+2026-03-16,Metro-North,Hudson,Brooklyn,213038,69.4,Crowding,41,PM Peak
+2026-03-16,Metro-North,New Haven,Queens,244028,67.6,Track Work,20,PM Peak
+2026-03-16,Metro-North,Hudson,Brooklyn,231260,76.7,Staffing,9,PM Peak
+2026-03-17,Subway,L,Queens,4030532,82.3,Crowding,13,PM Peak
+2026-03-17,Subway,5,Bronx,4008858,76.7,Signal Problem,10,PM Peak
+2026-03-17,Subway,L,Westchester,3790346,82.3,No Incident,0,Midday
+2026-03-17,Subway,R,Westchester,3806710,78.5,Signal Problem,12,Evening
+2026-03-17,Bus,M15,Westchester,1598799,85.3,No Incident,0,PM Peak
+2026-03-17,Bus,S79,Long Island,1406305,79.6,Mechanical Issue,4,AM Peak
+2026-03-17,LIRR,Hempstead,Long Island,238241,73.0,Police Activity,22,Midday
+2026-03-17,LIRR,Hempstead,Queens,301532,76.8,Weather,4,AM Peak
+2026-03-17,LIRR,Long Beach,Brooklyn,270345,72.3,Mechanical Issue,28,PM Peak
+2026-03-17,Metro-North,Hudson,Long Island,210732,71.5,Signal Problem,21,AM Peak
+2026-03-17,Metro-North,New Haven,Staten Island,234619,79.3,Staffing,18,AM Peak
+2026-03-18,Subway,A,Brooklyn,4187073,73.7,Track Work,5,PM Peak
+2026-03-18,Subway,L,Manhattan,3788618,83.1,Mechanical Issue,21,Evening
+2026-03-18,Bus,S79,Bronx,1341734,81.9,No Incident,0,PM Peak
+2026-03-18,Bus,M15,Queens,1437484,72.7,No Incident,0,Midday
+2026-03-18,Bus,Q60,Manhattan,1572800,81.3,Signal Problem,12,Midday
+2026-03-18,Bus,B44,Bronx,1417016,86.0,Crowding,15,PM Peak
+2026-03-18,LIRR,Ronkonkoma,Queens,277533,82.1,Signal Problem,6,Evening
+2026-03-18,LIRR,Long Beach,Staten Island,276254,73.3,Weather,11,AM Peak
+2026-03-18,Metro-North,Harlem,Westchester,240985,64.1,No Incident,0,AM Peak
+2026-03-18,Metro-North,New Haven,Manhattan,257694,81.9,Track Work,9,PM Peak
+2026-03-19,Subway,Q,Bronx,4403076,81.7,No Incident,0,PM Peak
+2026-03-19,Subway,1,Westchester,3460449,80.9,No Incident,0,PM Peak
+2026-03-19,Subway,E,Long Island,3898004,80.1,Signal Problem,9,PM Peak
+2026-03-19,Subway,4,Brooklyn,3726805,76.1,Staffing,17,PM Peak
+2026-03-19,Bus,M15,Long Island,1343589,66.9,Signal Problem,45,PM Peak
+2026-03-19,Bus,B46,Bronx,1572314,82.7,Crowding,5,PM Peak
+2026-03-19,Bus,M15,Long Island,1639173,72.8,Track Work,26,Evening
+2026-03-19,LIRR,Ronkonkoma,Bronx,280227,77.9,No Incident,0,PM Peak
+2026-03-19,LIRR,Hempstead,Long Island,268736,69.2,No Incident,0,PM Peak
+2026-03-19,LIRR,Ronkonkoma,Westchester,274373,69.8,Mechanical Issue,17,Midday
+2026-03-19,Metro-North,Harlem,Bronx,219511,86.5,No Incident,0,AM Peak
+2026-03-19,Metro-North,Harlem,Brooklyn,232587,74.6,No Incident,0,PM Peak
+2026-03-20,Subway,N,Staten Island,3709426,77.4,Weather,10,Midday
+2026-03-20,Subway,6,Long Island,3653323,70.9,Track Work,28,Evening
+2026-03-20,Subway,3,Brooklyn,3443438,80.3,No Incident,0,Midday
+2026-03-20,Bus,Bx12,Long Island,1314425,79.6,Police Activity,5,PM Peak
+2026-03-20,Bus,B44,Queens,1571371,75.6,Staffing,13,AM Peak
+2026-03-20,Bus,S79,Staten Island,1431753,78.7,No Incident,0,AM Peak
+2026-03-20,LIRR,Hempstead,Staten Island,281445,74.2,Signal Problem,12,AM Peak
+2026-03-20,LIRR,Hempstead,Staten Island,259333,80.7,Mechanical Issue,15,PM Peak
+2026-03-20,LIRR,Babylon,Westchester,286205,77.7,Police Activity,7,Evening
+2026-03-20,LIRR,Port Washington,Queens,260079,69.9,Track Work,7,PM Peak
+2026-03-20,Metro-North,New Haven,Westchester,225163,82.8,No Incident,0,AM Peak
+2026-03-20,Metro-North,New Haven,Queens,238757,72.7,No Incident,0,Midday
+2026-03-20,Metro-North,Hudson,Queens,221935,80.2,Weather,13,PM Peak
+2026-03-20,Metro-North,Hudson,Bronx,242766,77.1,Signal Problem,27,Evening
+2026-03-21,Subway,4,Queens,2499245,70.7,Track Work,38,PM Peak
+2026-03-21,Subway,3,Westchester,2142779,74.1,Track Work,3,PM Peak
+2026-03-21,Subway,J,Westchester,2203805,73.4,No Incident,0,AM Peak
+2026-03-21,Subway,C,Bronx,2687471,75.2,No Incident,0,AM Peak
+2026-03-21,Bus,B44,Queens,871942,77.9,No Incident,0,Evening
+2026-03-21,Bus,B44,Long Island,786016,83.6,Police Activity,15,AM Peak
+2026-03-21,LIRR,Ronkonkoma,Long Island,195404,74.8,Mechanical Issue,23,AM Peak
+2026-03-21,LIRR,Babylon,Brooklyn,124433,79.1,Signal Problem,8,Evening
+2026-03-21,LIRR,Port Washington,Long Island,157458,85.7,Mechanical Issue,7,AM Peak
+2026-03-21,Metro-North,Hudson,Long Island,106856,68.5,Staffing,15,Midday
+2026-03-21,Metro-North,Harlem,Manhattan,174760,74.8,No Incident,0,AM Peak
+2026-03-21,Metro-North,Harlem,Bronx,133533,79.7,No Incident,0,AM Peak
+2026-03-22,Subway,E,Manhattan,2483188,80.0,Crowding,15,PM Peak
+2026-03-22,Subway,A,Long Island,2165064,82.3,Signal Problem,13,Evening
+2026-03-22,Subway,C,Westchester,2508518,71.5,Weather,8,Midday
+2026-03-22,Subway,Q,Bronx,2266099,79.7,Crowding,18,Evening
+2026-03-22,Bus,Q10,Long Island,926698,80.2,Mechanical Issue,7,PM Peak
+2026-03-22,Bus,M15,Bronx,996289,70.7,Signal Problem,16,Evening
+2026-03-22,Bus,B44,Westchester,906419,79.1,Track Work,22,Evening
+2026-03-22,Bus,Bx12,Long Island,811164,71.6,No Incident,0,Midday
+2026-03-22,LIRR,Hempstead,Staten Island,176020,85.9,No Incident,0,Evening
+2026-03-22,LIRR,Hempstead,Staten Island,155145,75.3,No Incident,0,PM Peak
+2026-03-22,LIRR,Port Washington,Manhattan,120926,80.6,No Incident,0,AM Peak
+2026-03-22,Metro-North,Harlem,Long Island,127738,80.2,Crowding,7,PM Peak
+2026-03-22,Metro-North,Harlem,Brooklyn,151142,78.6,Mechanical Issue,9,Evening
+2026-03-22,Metro-North,Harlem,Queens,149677,65.4,Police Activity,12,AM Peak
+2026-03-22,Metro-North,Hudson,Bronx,171693,74.7,No Incident,0,Evening
+2026-03-23,Subway,L,Manhattan,3127718,78.4,No Incident,0,AM Peak
+2026-03-23,Subway,C,Bronx,3800849,78.0,No Incident,0,PM Peak
+2026-03-23,Subway,F,Brooklyn,3670779,75.6,No Incident,0,PM Peak
+2026-03-23,Bus,B46,Queens,1531247,73.5,No Incident,0,Evening
+2026-03-23,Bus,M15,Bronx,1365968,70.5,Crowding,31,PM Peak
+2026-03-23,Bus,B44,Staten Island,1586636,69.2,Crowding,6,PM Peak
+2026-03-23,LIRR,Ronkonkoma,Long Island,282287,76.4,Signal Problem,11,AM Peak
+2026-03-23,LIRR,Port Washington,Westchester,304124,72.9,Crowding,24,Midday
+2026-03-23,Metro-North,New Haven,Manhattan,242829,75.8,Track Work,19,AM Peak
+2026-03-23,Metro-North,New Haven,Westchester,236080,80.1,No Incident,0,PM Peak
+2026-03-23,Metro-North,New Haven,Staten Island,214285,73.3,Crowding,17,Midday
+2026-03-24,Subway,Q,Westchester,4215587,81.3,Mechanical Issue,17,Evening
+2026-03-24,Subway,1,Bronx,3682710,76.3,Crowding,10,Evening
+2026-03-24,Subway,C,Long Island,3168247,77.2,No Incident,0,Midday
+2026-03-24,Bus,B46,Staten Island,1687653,72.2,Crowding,22,Midday
+2026-03-24,Bus,Q60,Queens,1353611,83.2,Police Activity,12,Midday
+2026-03-24,LIRR,Port Washington,Manhattan,253584,64.2,No Incident,0,AM Peak
+2026-03-24,LIRR,Hempstead,Westchester,250462,77.7,Track Work,6,PM Peak
+2026-03-24,LIRR,Port Washington,Westchester,264998,77.8,Weather,30,PM Peak
+2026-03-24,LIRR,Port Washington,Bronx,257687,67.4,Police Activity,25,AM Peak
+2026-03-24,Metro-North,Harlem,Queens,229653,87.6,Weather,13,Midday
+2026-03-24,Metro-North,Harlem,Brooklyn,249037,76.5,Police Activity,29,AM Peak
+2026-03-24,Metro-North,New Haven,Manhattan,217126,78.1,No Incident,0,PM Peak
+2026-03-24,Metro-North,New Haven,Staten Island,249050,85.6,Mechanical Issue,6,PM Peak
+2026-03-25,Subway,Q,Manhattan,3830762,75.8,Signal Problem,26,PM Peak
+2026-03-25,Subway,C,Staten Island,3772538,73.9,Police Activity,25,Evening
+2026-03-25,Subway,E,Brooklyn,3624125,76.3,No Incident,0,PM Peak
+2026-03-25,Bus,M15,Long Island,1366483,80.6,No Incident,0,PM Peak
+2026-03-25,Bus,Q10,Brooklyn,1370277,69.6,Signal Problem,32,PM Peak
+2026-03-25,Bus,Q60,Manhattan,1379981,84.1,Crowding,10,AM Peak
+2026-03-25,LIRR,Babylon,Staten Island,266876,80.3,No Incident,0,PM Peak
+2026-03-25,LIRR,Port Washington,Long Island,276672,75.2,Signal Problem,12,AM Peak
+2026-03-25,LIRR,Ronkonkoma,Bronx,251517,76.7,No Incident,0,PM Peak
+2026-03-25,LIRR,Port Washington,Bronx,251484,71.2,No Incident,0,PM Peak
+2026-03-25,Metro-North,Harlem,Westchester,206846,78.4,Mechanical Issue,8,PM Peak
+2026-03-25,Metro-North,Harlem,Westchester,225861,81.1,Police Activity,14,PM Peak
+2026-03-26,Subway,1,Bronx,3473275,72.6,No Incident,0,AM Peak
+2026-03-26,Subway,2,Manhattan,3832487,68.4,Track Work,25,AM Peak
+2026-03-26,Subway,6,Bronx,3852790,79.5,Track Work,6,PM Peak
+2026-03-26,Bus,S79,Bronx,1505861,69.6,No Incident,0,Evening
+2026-03-26,Bus,S79,Manhattan,1398981,71.3,Weather,40,PM Peak
+2026-03-26,Bus,B46,Staten Island,1466001,76.7,Crowding,8,PM Peak
+2026-03-26,Bus,B44,Long Island,1354727,78.8,Signal Problem,23,AM Peak
+2026-03-26,LIRR,Ronkonkoma,Long Island,296672,86.4,No Incident,0,Evening
+2026-03-26,LIRR,Hempstead,Long Island,267938,84.6,No Incident,0,AM Peak
+2026-03-26,LIRR,Babylon,Westchester,266504,75.9,Crowding,24,PM Peak
+2026-03-26,Metro-North,Hudson,Brooklyn,224947,78.9,Crowding,37,AM Peak
+2026-03-26,Metro-North,New Haven,Brooklyn,238402,73.6,Police Activity,13,PM Peak
+2026-03-26,Metro-North,Hudson,Westchester,254364,72.3,Police Activity,30,AM Peak
+2026-03-27,Subway,Q,Brooklyn,3467605,77.8,No Incident,0,PM Peak
+2026-03-27,Subway,3,Queens,3688506,82.2,No Incident,0,PM Peak
+2026-03-27,Subway,2,Bronx,4010670,81.2,Crowding,21,PM Peak
+2026-03-27,Subway,L,Brooklyn,3588766,74.0,Signal Problem,13,PM Peak
+2026-03-27,Bus,Q10,Westchester,1623167,76.5,Staffing,24,PM Peak
+2026-03-27,Bus,Q60,Staten Island,1448867,80.3,No Incident,0,PM Peak
+2026-03-27,Bus,M15,Brooklyn,1261516,78.3,Signal Problem,32,Midday
+2026-03-27,LIRR,Hempstead,Queens,275176,76.0,Weather,5,Evening
+2026-03-27,LIRR,Babylon,Brooklyn,251172,79.7,No Incident,0,Midday
+2026-03-27,LIRR,Port Washington,Bronx,259918,73.4,No Incident,0,Midday
+2026-03-27,Metro-North,Harlem,Bronx,244128,79.8,No Incident,0,AM Peak
+2026-03-27,Metro-North,Harlem,Staten Island,230691,75.2,Mechanical Issue,8,PM Peak
+2026-03-27,Metro-North,Hudson,Staten Island,244415,83.4,No Incident,0,PM Peak
+2026-03-28,Subway,A,Brooklyn,1952392,73.1,Police Activity,6,PM Peak
+2026-03-28,Subway,4,Staten Island,2377695,80.0,No Incident,0,AM Peak
+2026-03-28,Bus,M15,Long Island,897618,72.5,No Incident,0,Evening
+2026-03-28,Bus,Q60,Staten Island,890059,77.1,No Incident,0,Midday
+2026-03-28,Bus,S79,Westchester,919886,89.0,No Incident,0,PM Peak
+2026-03-28,Bus,B46,Manhattan,658983,70.9,Crowding,42,PM Peak
+2026-03-28,LIRR,Ronkonkoma,Bronx,150557,80.4,No Incident,0,PM Peak
+2026-03-28,LIRR,Babylon,Queens,144399,71.5,Crowding,3,AM Peak
+2026-03-28,Metro-North,Harlem,Westchester,162341,67.5,Mechanical Issue,33,PM Peak
+2026-03-28,Metro-North,Harlem,Long Island,166320,74.7,No Incident,0,PM Peak
+2026-03-28,Metro-North,Hudson,Queens,159342,65.5,Crowding,17,PM Peak
+2026-03-29,Subway,C,Long Island,2221598,78.6,No Incident,0,PM Peak
+2026-03-29,Subway,E,Manhattan,2241183,73.2,Mechanical Issue,13,PM Peak
+2026-03-29,Subway,C,Manhattan,2050020,74.9,Signal Problem,16,PM Peak
+2026-03-29,Subway,F,Staten Island,2459508,75.5,Crowding,23,PM Peak
+2026-03-29,Bus,S79,Staten Island,1110378,80.2,No Incident,0,PM Peak
+2026-03-29,Bus,B46,Long Island,845951,88.4,Weather,4,PM Peak
+2026-03-29,Bus,S79,Queens,1004013,71.4,No Incident,0,PM Peak
+2026-03-29,Bus,M15,Staten Island,1005429,80.9,No Incident,0,AM Peak
+2026-03-29,LIRR,Port Washington,Westchester,168695,74.9,No Incident,0,Evening
+2026-03-29,LIRR,Port Washington,Long Island,173940,79.2,Track Work,25,AM Peak
+2026-03-29,LIRR,Port Washington,Manhattan,152008,71.8,Crowding,4,PM Peak
+2026-03-29,Metro-North,Hudson,Bronx,185590,66.3,Signal Problem,11,AM Peak
+2026-03-29,Metro-North,New Haven,Brooklyn,171964,80.7,No Incident,0,PM Peak
+2026-03-29,Metro-North,New Haven,Manhattan,94331,69.8,Mechanical Issue,17,PM Peak
+2026-03-30,Subway,J,Brooklyn,3565297,80.0,Mechanical Issue,3,Midday
+2026-03-30,Subway,1,Manhattan,3651410,78.3,Mechanical Issue,13,PM Peak
+2026-03-30,Subway,Q,Long Island,3784700,78.8,Track Work,23,PM Peak
+2026-03-30,Subway,1,Manhattan,3711132,82.0,Track Work,10,Midday
+2026-03-30,Bus,Q10,Westchester,1490845,79.4,No Incident,0,AM Peak
+2026-03-30,Bus,S79,Westchester,1473390,76.5,No Incident,0,Evening
+2026-03-30,LIRR,Babylon,Long Island,274346,71.8,No Incident,0,AM Peak
+2026-03-30,LIRR,Babylon,Westchester,234092,78.1,No Incident,0,AM Peak
+2026-03-30,Metro-North,New Haven,Staten Island,230618,76.5,Mechanical Issue,3,AM Peak
+2026-03-30,Metro-North,New Haven,Staten Island,231259,89.2,Crowding,26,AM Peak
+2026-03-31,Subway,2,Queens,4096090,70.9,Track Work,3,AM Peak
+2026-03-31,Subway,6,Queens,3660111,79.6,Signal Problem,8,Evening
+2026-03-31,Bus,Q10,Long Island,1489579,74.0,Staffing,36,AM Peak
+2026-03-31,Bus,Bx12,Queens,1464143,77.8,No Incident,0,Midday
+2026-03-31,Bus,Bx12,Brooklyn,1385681,76.2,Mechanical Issue,12,AM Peak
+2026-03-31,LIRR,Long Beach,Manhattan,301660,76.2,Police Activity,10,PM Peak
+2026-03-31,LIRR,Long Beach,Bronx,241073,76.3,No Incident,0,Evening
+2026-03-31,Metro-North,Hudson,Brooklyn,218700,88.0,No Incident,0,Midday
+2026-03-31,Metro-North,New Haven,Brooklyn,253943,76.9,No Incident,0,PM Peak
+2026-04-01,Subway,L,Staten Island,3975450,76.4,Signal Problem,6,AM Peak
+2026-04-01,Subway,2,Brooklyn,3927434,82.7,Staffing,19,AM Peak
+2026-04-01,Bus,B44,Brooklyn,1441932,70.6,Track Work,10,AM Peak
+2026-04-01,Bus,B46,Westchester,1327523,72.5,Track Work,20,Midday
+2026-04-01,Bus,Bx12,Queens,1461507,68.9,No Incident,0,AM Peak
+2026-04-01,Bus,Bx12,Queens,1274296,66.4,Crowding,14,AM Peak
+2026-04-01,LIRR,Babylon,Queens,256130,76.9,Crowding,8,Midday
+2026-04-01,LIRR,Babylon,Brooklyn,241305,77.9,Crowding,44,Midday
+2026-04-01,LIRR,Port Washington,Westchester,237962,87.0,No Incident,0,PM Peak
+2026-04-01,LIRR,Long Beach,Queens,269020,77.3,Police Activity,5,PM Peak
+2026-04-01,Metro-North,Harlem,Westchester,246080,76.8,Police Activity,7,PM Peak
+2026-04-01,Metro-North,Hudson,Westchester,198572,79.6,No Incident,0,PM Peak
+2026-04-01,Metro-North,Hudson,Manhattan,206641,76.7,Weather,18,Evening
+2026-04-02,Subway,N,Westchester,3802774,85.6,No Incident,0,PM Peak
+2026-04-02,Subway,F,Westchester,3646930,71.5,Weather,14,Evening
+2026-04-02,Subway,3,Long Island,4162278,72.2,Mechanical Issue,8,AM Peak
+2026-04-02,Bus,Q60,Queens,1471071,69.4,No Incident,0,AM Peak
+2026-04-02,Bus,M15,Brooklyn,1447492,79.3,No Incident,0,PM Peak
+2026-04-02,LIRR,Ronkonkoma,Brooklyn,291912,74.6,Police Activity,23,PM Peak
+2026-04-02,LIRR,Hempstead,Westchester,301324,72.5,No Incident,0,AM Peak
+2026-04-02,Metro-North,Harlem,Brooklyn,247584,79.3,Track Work,13,Evening
+2026-04-02,Metro-North,Harlem,Brooklyn,242736,68.4,Signal Problem,12,Midday
+2026-04-02,Metro-North,New Haven,Long Island,215255,76.1,No Incident,0,AM Peak
+2026-04-03,Subway,4,Long Island,3591620,80.4,Mechanical Issue,9,Evening
+2026-04-03,Subway,4,Brooklyn,3837633,80.0,No Incident,0,Evening
+2026-04-03,Subway,F,Manhattan,3558286,69.6,No Incident,0,AM Peak
+2026-04-03,Subway,E,Queens,3612741,63.2,Mechanical Issue,11,AM Peak
+2026-04-03,Bus,Q10,Brooklyn,1413758,64.4,Crowding,5,Midday
+2026-04-03,Bus,B46,Manhattan,1483134,80.1,No Incident,0,PM Peak
+2026-04-03,Bus,B46,Queens,1560098,75.3,Mechanical Issue,11,Evening
+2026-04-03,Bus,Q10,Queens,1555366,77.6,Track Work,13,PM Peak
+2026-04-03,LIRR,Babylon,Brooklyn,271775,78.0,No Incident,0,PM Peak
+2026-04-03,LIRR,Hempstead,Long Island,250633,78.0,Mechanical Issue,22,Evening
+2026-04-03,Metro-North,Harlem,Long Island,216976,71.4,Weather,10,PM Peak
+2026-04-03,Metro-North,Harlem,Westchester,260253,74.9,Crowding,87,AM Peak
+2026-04-03,Metro-North,Harlem,Queens,239258,72.0,No Incident,0,PM Peak
+2026-04-03,Metro-North,New Haven,Westchester,211422,88.7,No Incident,0,Evening
+2026-04-04,Subway,E,Bronx,2209330,72.1,Signal Problem,3,AM Peak
+2026-04-04,Subway,A,Long Island,2320955,74.4,No Incident,0,AM Peak
+2026-04-04,Bus,B46,Bronx,1035003,76.0,No Incident,0,AM Peak
+2026-04-04,Bus,S79,Brooklyn,910941,76.3,Staffing,15,Evening
+2026-04-04,Bus,Q10,Brooklyn,793489,75.9,Signal Problem,17,PM Peak
+2026-04-04,Bus,Bx12,Staten Island,889038,66.8,Staffing,48,Midday
+2026-04-04,LIRR,Long Beach,Queens,170556,73.0,Weather,24,AM Peak
+2026-04-04,LIRR,Port Washington,Queens,141941,76.8,No Incident,0,Evening
+2026-04-04,Metro-North,Harlem,Westchester,136910,77.1,Staffing,15,PM Peak
+2026-04-04,Metro-North,Harlem,Brooklyn,154822,81.8,Mechanical Issue,10,PM Peak
+2026-04-04,Metro-North,Hudson,Staten Island,165696,68.3,Track Work,16,PM Peak
+2026-04-05,Subway,F,Queens,2164121,76.7,Mechanical Issue,9,AM Peak
+2026-04-05,Subway,5,Long Island,2016793,73.3,No Incident,0,PM Peak
+2026-04-05,Bus,S79,Staten Island,946023,73.6,Signal Problem,40,PM Peak
+2026-04-05,Bus,M15,Westchester,877209,76.7,Signal Problem,3,Evening
+2026-04-05,Bus,M15,Brooklyn,928748,78.0,No Incident,0,AM Peak
+2026-04-05,LIRR,Babylon,Staten Island,147245,72.0,No Incident,0,AM Peak
+2026-04-05,LIRR,Long Beach,Long Island,184726,63.1,Police Activity,28,AM Peak
+2026-04-05,LIRR,Hempstead,Westchester,155386,76.4,Staffing,22,AM Peak
+2026-04-05,Metro-North,Hudson,Staten Island,160706,75.8,Police Activity,19,PM Peak
+2026-04-05,Metro-North,New Haven,Manhattan,123573,81.0,No Incident,0,PM Peak
+2026-04-06,Subway,F,Queens,3701199,68.1,Track Work,16,PM Peak
+2026-04-06,Subway,1,Queens,3704954,83.4,Staffing,3,Evening
+2026-04-06,Subway,1,Manhattan,3879555,82.0,No Incident,0,PM Peak
+2026-04-06,Subway,5,Manhattan,3521547,86.0,No Incident,0,AM Peak
+2026-04-06,Bus,M15,Staten Island,1789330,80.6,Crowding,7,PM Peak
+2026-04-06,Bus,Q10,Staten Island,1567023,69.0,Mechanical Issue,41,AM Peak
+2026-04-06,Bus,Q10,Queens,1642062,79.8,Track Work,19,PM Peak
+2026-04-06,Bus,Bx12,Bronx,1390802,69.5,Weather,12,PM Peak
+2026-04-06,LIRR,Ronkonkoma,Westchester,259355,74.2,Signal Problem,3,AM Peak
+2026-04-06,LIRR,Ronkonkoma,Staten Island,248943,75.9,Staffing,8,AM Peak
+2026-04-06,Metro-North,New Haven,Manhattan,218478,70.6,Crowding,17,AM Peak
+2026-04-06,Metro-North,Hudson,Queens,197765,74.4,No Incident,0,Evening
+2026-04-06,Metro-North,Hudson,Queens,224974,80.4,No Incident,0,PM Peak
+2026-04-06,Metro-North,New Haven,Manhattan,244681,80.2,Police Activity,3,PM Peak
+2026-04-07,Subway,6,Brooklyn,4252351,72.1,Mechanical Issue,48,AM Peak
+2026-04-07,Subway,L,Queens,3788530,68.2,Signal Problem,20,PM Peak
+2026-04-07,Subway,R,Bronx,3712476,79.3,Mechanical Issue,3,Midday
+2026-04-07,Bus,B44,Bronx,1494920,72.3,Signal Problem,13,PM Peak
+2026-04-07,Bus,B46,Queens,1487205,67.3,Weather,55,AM Peak
+2026-04-07,LIRR,Port Washington,Westchester,286785,72.6,Track Work,10,Midday
+2026-04-07,LIRR,Port Washington,Queens,242931,77.6,No Incident,0,Evening
+2026-04-07,LIRR,Babylon,Westchester,281616,73.9,Mechanical Issue,15,PM Peak
+2026-04-07,LIRR,Hempstead,Westchester,241229,76.1,Signal Problem,8,Evening
+2026-04-07,Metro-North,Harlem,Long Island,237067,71.2,Mechanical Issue,9,PM Peak
+2026-04-07,Metro-North,New Haven,Long Island,237736,79.3,Signal Problem,32,Evening
+2026-04-07,Metro-North,Harlem,Queens,243781,78.1,Track Work,5,AM Peak
+2026-04-08,Subway,5,Bronx,3349752,72.9,No Incident,0,PM Peak
+2026-04-08,Subway,N,Bronx,3755447,74.4,Weather,19,PM Peak
+2026-04-08,Subway,F,Manhattan,4137694,69.6,Signal Problem,24,PM Peak
+2026-04-08,Bus,Q60,Brooklyn,1489997,60.5,Police Activity,26,Midday
+2026-04-08,Bus,S79,Long Island,1698384,72.8,Mechanical Issue,29,PM Peak
+2026-04-08,Bus,Q10,Long Island,1481120,80.1,No Incident,0,AM Peak
+2026-04-08,Bus,Q60,Bronx,1665408,74.6,Crowding,33,PM Peak
+2026-04-08,LIRR,Long Beach,Staten Island,245312,80.8,Mechanical Issue,9,Evening
+2026-04-08,LIRR,Babylon,Bronx,255667,77.9,Police Activity,14,Midday
+2026-04-08,LIRR,Port Washington,Queens,282233,72.0,Signal Problem,24,PM Peak
+2026-04-08,LIRR,Hempstead,Brooklyn,260409,85.2,Signal Problem,10,PM Peak
+2026-04-08,Metro-North,Hudson,Westchester,215945,76.4,Signal Problem,14,Evening
+2026-04-08,Metro-North,Hudson,Queens,214204,76.6,No Incident,0,AM Peak
+2026-04-08,Metro-North,Harlem,Manhattan,177316,80.7,Mechanical Issue,3,Evening
+2026-04-09,Subway,5,Bronx,3474035,76.8,Police Activity,16,Evening
+2026-04-09,Subway,J,Bronx,3811001,74.8,Staffing,12,PM Peak
+2026-04-09,Bus,S79,Staten Island,1554479,83.6,No Incident,0,AM Peak
+2026-04-09,Bus,B46,Queens,1535157,79.4,No Incident,0,AM Peak
+2026-04-09,LIRR,Long Beach,Bronx,268814,68.2,Signal Problem,7,AM Peak
+2026-04-09,LIRR,Long Beach,Long Island,258641,70.0,Track Work,16,Midday
+2026-04-09,LIRR,Long Beach,Westchester,261672,72.1,No Incident,0,Midday
+2026-04-09,LIRR,Babylon,Staten Island,251973,84.4,No Incident,0,AM Peak
+2026-04-09,Metro-North,Harlem,Manhattan,236544,79.3,Signal Problem,33,Evening
+2026-04-09,Metro-North,Hudson,Westchester,261755,75.7,Police Activity,16,PM Peak
+2026-04-09,Metro-North,Hudson,Westchester,216635,74.8,Signal Problem,22,AM Peak
+2026-04-09,Metro-North,New Haven,Westchester,239002,65.7,Crowding,30,PM Peak
+2026-04-10,Subway,N,Brooklyn,3936558,73.0,No Incident,0,PM Peak
+2026-04-10,Subway,1,Queens,3918698,86.3,Weather,18,AM Peak
+2026-04-10,Bus,B44,Brooklyn,1484358,83.3,No Incident,0,PM Peak
+2026-04-10,Bus,S79,Westchester,1530429,76.1,Track Work,9,PM Peak
+2026-04-10,LIRR,Port Washington,Queens,223886,77.6,Signal Problem,3,Midday
+2026-04-10,LIRR,Babylon,Westchester,266993,78.4,Police Activity,6,AM Peak
+2026-04-10,Metro-North,Hudson,Long Island,270480,74.9,Mechanical Issue,16,Midday
+2026-04-10,Metro-North,New Haven,Bronx,205638,73.4,Weather,26,PM Peak
+2026-04-10,Metro-North,Harlem,Queens,263168,82.8,No Incident,0,AM Peak
+2026-04-10,Metro-North,Harlem,Brooklyn,248713,76.5,No Incident,0,AM Peak
+2026-04-11,Subway,L,Westchester,2900269,72.8,Crowding,7,Midday
+2026-04-11,Subway,F,Staten Island,1799857,79.6,No Incident,0,PM Peak
+2026-04-11,Bus,M15,Brooklyn,962631,66.6,No Incident,0,Evening
+2026-04-11,Bus,Bx12,Westchester,906155,83.1,Weather,8,AM Peak
+2026-04-11,Bus,B44,Bronx,870867,74.5,Police Activity,38,AM Peak
+2026-04-11,Bus,B46,Long Island,901449,77.2,Crowding,38,Evening
+2026-04-11,LIRR,Ronkonkoma,Bronx,124467,75.8,No Incident,0,PM Peak
+2026-04-11,LIRR,Long Beach,Brooklyn,181451,73.3,Police Activity,21,PM Peak
+2026-04-11,Metro-North,Hudson,Bronx,183564,85.2,No Incident,0,AM Peak
+2026-04-11,Metro-North,Harlem,Brooklyn,148286,78.5,No Incident,0,AM Peak
+2026-04-11,Metro-North,Hudson,Westchester,148758,80.6,Track Work,11,PM Peak
+2026-04-11,Metro-North,New Haven,Long Island,123669,86.7,No Incident,0,AM Peak
+2026-04-12,Subway,Q,Long Island,2275818,75.2,Mechanical Issue,20,Midday
+2026-04-12,Subway,L,Brooklyn,2126752,80.9,No Incident,0,AM Peak
+2026-04-12,Subway,1,Staten Island,2670730,70.5,Weather,22,AM Peak
+2026-04-12,Bus,S79,Manhattan,1287024,75.8,No Incident,0,Midday
+2026-04-12,Bus,B44,Bronx,806292,75.3,Weather,24,Evening
+2026-04-12,Bus,S79,Long Island,1052409,84.4,Police Activity,5,PM Peak
+2026-04-12,LIRR,Ronkonkoma,Manhattan,131994,73.0,Mechanical Issue,25,PM Peak
+2026-04-12,LIRR,Port Washington,Brooklyn,143508,74.1,Signal Problem,7,AM Peak
+2026-04-12,Metro-North,Hudson,Staten Island,148210,73.9,Track Work,11,PM Peak
+2026-04-12,Metro-North,New Haven,Bronx,161794,68.8,No Incident,0,PM Peak
+2026-04-12,Metro-North,New Haven,Manhattan,144332,82.4,Police Activity,16,PM Peak
+2026-04-12,Metro-North,Hudson,Brooklyn,145807,67.1,Mechanical Issue,3,Evening
+2026-04-13,Subway,5,Manhattan,4331182,73.4,No Incident,0,AM Peak
+2026-04-13,Subway,3,Brooklyn,4113454,72.1,Mechanical Issue,49,Midday
+2026-04-13,Subway,C,Brooklyn,3590803,79.6,No Incident,0,PM Peak
+2026-04-13,Subway,4,Westchester,3609434,75.9,No Incident,0,Midday
+2026-04-13,Bus,S79,Brooklyn,1499392,80.6,Crowding,15,AM Peak
+2026-04-13,Bus,S79,Brooklyn,1390697,70.5,Staffing,18,PM Peak
+2026-04-13,Bus,S79,Staten Island,1512890,74.9,No Incident,0,Midday
+2026-04-13,Bus,Q10,Queens,1268126,74.2,Mechanical Issue,10,AM Peak
+2026-04-13,LIRR,Hempstead,Queens,233762,77.5,No Incident,0,PM Peak
+2026-04-13,LIRR,Babylon,Westchester,297576,77.4,Signal Problem,4,AM Peak
+2026-04-13,LIRR,Port Washington,Staten Island,244637,74.2,Mechanical Issue,27,Evening
+2026-04-13,Metro-North,New Haven,Bronx,247045,76.3,Weather,14,PM Peak
+2026-04-13,Metro-North,Harlem,Westchester,237933,74.9,Staffing,25,PM Peak
+2026-04-13,Metro-North,Harlem,Bronx,231178,75.0,No Incident,0,PM Peak
+2026-04-14,Subway,J,Long Island,3772537,73.2,Track Work,8,Evening
+2026-04-14,Subway,2,Brooklyn,4028047,76.3,No Incident,0,Midday
+2026-04-14,Subway,J,Brooklyn,4384939,80.2,Staffing,7,AM Peak
+2026-04-14,Subway,1,Long Island,3847951,71.1,Track Work,15,Midday
+2026-04-14,Bus,Q10,Westchester,1453566,73.4,Track Work,17,PM Peak
+2026-04-14,Bus,Q10,Long Island,1345123,77.1,Staffing,19,AM Peak
+2026-04-14,Bus,M15,Long Island,1438835,78.2,Mechanical Issue,21,Midday
+2026-04-14,Bus,B44,Queens,1442331,68.7,No Incident,0,PM Peak
+2026-04-14,LIRR,Hempstead,Queens,248185,77.5,Crowding,22,Midday
+2026-04-14,LIRR,Port Washington,Westchester,249209,73.1,Weather,10,AM Peak
+2026-04-14,Metro-North,New Haven,Bronx,201364,77.7,Mechanical Issue,11,PM Peak
+2026-04-14,Metro-North,New Haven,Queens,221561,81.0,No Incident,0,PM Peak
+2026-04-15,Subway,C,Staten Island,3309114,78.9,Signal Problem,19,PM Peak
+2026-04-15,Subway,L,Manhattan,3495913,76.7,Track Work,53,Midday
+2026-04-15,Subway,E,Long Island,4001650,76.9,Track Work,4,Evening
+2026-04-15,Bus,Q10,Westchester,1566465,77.3,Weather,3,Evening
+2026-04-15,Bus,Q10,Brooklyn,1473071,71.8,Weather,23,PM Peak
+2026-04-15,Bus,B44,Manhattan,1680610,78.2,Crowding,16,Evening
+2026-04-15,LIRR,Babylon,Long Island,254882,74.2,No Incident,0,PM Peak
+2026-04-15,LIRR,Hempstead,Bronx,253383,77.1,No Incident,0,Evening
+2026-04-15,Metro-North,New Haven,Staten Island,241602,66.6,Weather,3,AM Peak
+2026-04-15,Metro-North,Harlem,Staten Island,221849,78.9,Police Activity,3,Midday
+2026-04-16,Subway,A,Westchester,3516923,80.8,Mechanical Issue,15,Midday
+2026-04-16,Subway,3,Queens,3608237,78.5,Signal Problem,21,Midday
+2026-04-16,Subway,E,Long Island,3817134,74.2,Police Activity,12,AM Peak
+2026-04-16,Bus,Q60,Westchester,1414969,82.8,No Incident,0,Evening
+2026-04-16,Bus,S79,Westchester,1405193,72.3,Signal Problem,45,AM Peak
+2026-04-16,Bus,Q60,Bronx,1500552,71.6,Police Activity,7,AM Peak
+2026-04-16,Bus,M15,Brooklyn,1496927,75.1,No Incident,0,PM Peak
+2026-04-16,LIRR,Hempstead,Brooklyn,291741,80.6,Police Activity,14,Midday
+2026-04-16,LIRR,Ronkonkoma,Staten Island,256376,79.0,Track Work,12,Evening
+2026-04-16,LIRR,Hempstead,Long Island,274162,77.7,Weather,12,Midday
+2026-04-16,Metro-North,New Haven,Westchester,221954,75.6,Weather,12,PM Peak
+2026-04-16,Metro-North,New Haven,Long Island,254790,83.0,Signal Problem,13,PM Peak
+2026-04-17,Subway,2,Manhattan,3776133,68.1,Crowding,54,PM Peak
+2026-04-17,Subway,1,Long Island,3965301,84.2,No Incident,0,PM Peak
+2026-04-17,Subway,A,Manhattan,4075424,75.0,Mechanical Issue,19,PM Peak
+2026-04-17,Bus,B46,Long Island,1629164,75.2,Track Work,13,AM Peak
+2026-04-17,Bus,S79,Staten Island,1586700,71.1,No Incident,0,Midday
+2026-04-17,Bus,B44,Staten Island,1423420,70.2,No Incident,0,AM Peak
+2026-04-17,Bus,B44,Bronx,1640971,76.2,No Incident,0,PM Peak
+2026-04-17,LIRR,Port Washington,Bronx,276643,76.0,Police Activity,21,PM Peak
+2026-04-17,LIRR,Ronkonkoma,Westchester,241090,76.5,No Incident,0,PM Peak
+2026-04-17,LIRR,Port Washington,Queens,278544,73.4,Weather,56,Evening
+2026-04-17,LIRR,Ronkonkoma,Westchester,287940,85.8,Signal Problem,16,Midday
+2026-04-17,Metro-North,Harlem,Bronx,239160,81.6,Track Work,6,AM Peak
+2026-04-17,Metro-North,Harlem,Queens,248977,77.6,No Incident,0,AM Peak
+2026-04-18,Subway,L,Staten Island,2346540,71.9,Signal Problem,17,PM Peak
+2026-04-18,Subway,L,Staten Island,1932621,75.5,Signal Problem,13,AM Peak
+2026-04-18,Bus,Q10,Queens,1006898,70.5,Track Work,25,AM Peak
+2026-04-18,Bus,B44,Bronx,845137,88.4,No Incident,0,Midday
+2026-04-18,Bus,S79,Queens,940790,80.3,Track Work,8,Evening
+2026-04-18,Bus,B44,Staten Island,1115632,73.0,Weather,22,AM Peak
+2026-04-18,LIRR,Hempstead,Manhattan,166549,67.0,Signal Problem,16,AM Peak
+2026-04-18,LIRR,Hempstead,Brooklyn,177039,74.6,Crowding,5,AM Peak
+2026-04-18,LIRR,Port Washington,Brooklyn,172849,74.8,Mechanical Issue,23,PM Peak
+2026-04-18,LIRR,Ronkonkoma,Staten Island,191563,79.7,Crowding,9,Midday
+2026-04-18,Metro-North,New Haven,Bronx,156569,76.9,Signal Problem,24,AM Peak
+2026-04-18,Metro-North,Hudson,Staten Island,143899,74.1,No Incident,0,PM Peak
+2026-04-18,Metro-North,Harlem,Bronx,150068,80.7,Track Work,8,Midday
+2026-04-19,Subway,J,Long Island,1988394,85.5,Signal Problem,16,PM Peak
+2026-04-19,Subway,2,Long Island,2130329,75.8,No Incident,0,AM Peak
+2026-04-19,Subway,C,Staten Island,2745650,74.0,Signal Problem,15,PM Peak
+2026-04-19,Subway,1,Long Island,2490506,74.5,Crowding,14,Midday
+2026-04-19,Bus,Bx12,Queens,798737,69.7,No Incident,0,PM Peak
+2026-04-19,Bus,S79,Long Island,849913,76.5,No Incident,0,AM Peak
+2026-04-19,LIRR,Port Washington,Westchester,155507,72.5,No Incident,0,Midday
+2026-04-19,LIRR,Babylon,Queens,163583,86.2,Crowding,6,AM Peak
+2026-04-19,Metro-North,Harlem,Westchester,102198,72.9,Crowding,13,PM Peak
+2026-04-19,Metro-North,Harlem,Manhattan,128928,70.8,Staffing,34,Midday
+2026-04-20,Subway,C,Brooklyn,3653843,78.1,Track Work,16,AM Peak
+2026-04-20,Subway,5,Staten Island,4088942,76.9,Track Work,3,Midday
+2026-04-20,Bus,M15,Brooklyn,1632019,74.1,No Incident,0,AM Peak
+2026-04-20,Bus,M15,Queens,1572010,76.8,Weather,6,Midday
+2026-04-20,Bus,Bx12,Westchester,1650474,79.9,Weather,10,Evening
+2026-04-20,Bus,Bx12,Bronx,1510150,79.4,Signal Problem,6,PM Peak
+2026-04-20,LIRR,Babylon,Bronx,244007,78.0,Mechanical Issue,22,AM Peak
+2026-04-20,LIRR,Ronkonkoma,Bronx,266462,73.3,Track Work,3,Evening
+2026-04-20,LIRR,Babylon,Bronx,285381,73.9,No Incident,0,PM Peak
+2026-04-20,LIRR,Long Beach,Brooklyn,261681,70.9,Weather,19,AM Peak
+2026-04-20,Metro-North,New Haven,Westchester,208081,62.0,Signal Problem,12,PM Peak
+2026-04-20,Metro-North,New Haven,Staten Island,236950,67.3,Weather,17,AM Peak
+2026-04-20,Metro-North,New Haven,Brooklyn,262208,77.3,No Incident,0,PM Peak
+2026-04-20,Metro-North,Harlem,Westchester,233821,70.5,Mechanical Issue,9,Midday
+2026-04-21,Subway,6,Bronx,3892460,79.8,Crowding,5,Midday
+2026-04-21,Subway,5,Queens,4563962,67.8,Signal Problem,21,Midday
+2026-04-21,Subway,1,Manhattan,4086855,71.1,Weather,4,AM Peak
+2026-04-21,Subway,3,Staten Island,4444251,73.0,Crowding,28,Evening
+2026-04-21,Bus,Q10,Westchester,1366548,77.4,Track Work,4,PM Peak
+2026-04-21,Bus,S79,Manhattan,1422869,74.3,Signal Problem,4,Evening
+2026-04-21,LIRR,Ronkonkoma,Long Island,274190,83.2,No Incident,0,Evening
+2026-04-21,LIRR,Port Washington,Queens,237119,70.9,Track Work,11,AM Peak
+2026-04-21,LIRR,Ronkonkoma,Staten Island,256109,79.2,Mechanical Issue,5,AM Peak
+2026-04-21,LIRR,Hempstead,Bronx,198815,77.0,Signal Problem,37,AM Peak
+2026-04-21,Metro-North,New Haven,Brooklyn,217301,70.3,Mechanical Issue,31,Evening
+2026-04-21,Metro-North,Hudson,Long Island,210998,70.9,No Incident,0,Evening
+2026-04-21,Metro-North,Hudson,Manhattan,213457,78.1,No Incident,0,Evening
+2026-04-21,Metro-North,Hudson,Manhattan,231040,73.9,Crowding,31,AM Peak
+2026-04-22,Subway,J,Staten Island,3581978,78.2,Weather,5,PM Peak
+2026-04-22,Subway,C,Bronx,3871095,74.7,Track Work,26,AM Peak
+2026-04-22,Subway,3,Westchester,3570266,78.5,Police Activity,16,Midday
+2026-04-22,Bus,B44,Bronx,1447982,83.2,No Incident,0,PM Peak
+2026-04-22,Bus,B44,Brooklyn,1294893,78.5,No Incident,0,Evening
+2026-04-22,Bus,M15,Brooklyn,1441059,81.6,No Incident,0,AM Peak
+2026-04-22,LIRR,Babylon,Queens,279976,76.6,No Incident,0,PM Peak
+2026-04-22,LIRR,Long Beach,Bronx,272086,77.8,No Incident,0,PM Peak
+2026-04-22,LIRR,Ronkonkoma,Long Island,269191,72.4,Crowding,18,Midday
+2026-04-22,Metro-North,Hudson,Westchester,254877,77.1,Police Activity,9,PM Peak
+2026-04-22,Metro-North,New Haven,Bronx,222687,67.6,Track Work,9,AM Peak
+2026-04-22,Metro-North,Harlem,Bronx,242641,81.9,No Incident,0,PM Peak
+2026-04-22,Metro-North,Hudson,Long Island,171834,78.1,Mechanical Issue,28,PM Peak
+2026-04-23,Subway,E,Westchester,3617081,71.2,Police Activity,5,PM Peak
+2026-04-23,Subway,4,Long Island,4066956,81.0,Track Work,27,Midday
+2026-04-23,Bus,Q60,Queens,1199426,81.6,Weather,12,AM Peak
+2026-04-23,Bus,M15,Long Island,1699870,78.6,Signal Problem,14,Midday
+2026-04-23,Bus,B44,Westchester,1590594,68.0,No Incident,0,Midday
+2026-04-23,LIRR,Port Washington,Long Island,247290,71.2,Track Work,3,Midday
+2026-04-23,LIRR,Hempstead,Manhattan,287772,72.0,Crowding,23,PM Peak
+2026-04-23,Metro-North,New Haven,Queens,266518,82.8,No Incident,0,Midday
+2026-04-23,Metro-North,Hudson,Bronx,215052,82.3,Signal Problem,7,Midday
+2026-04-24,Subway,3,Long Island,3609044,73.8,No Incident,0,AM Peak
+2026-04-24,Subway,J,Long Island,3298771,76.5,No Incident,0,PM Peak
+2026-04-24,Subway,1,Westchester,3225030,74.8,Weather,8,Midday
+2026-04-24,Bus,Q10,Long Island,1683757,83.1,Signal Problem,6,AM Peak
+2026-04-24,Bus,Q10,Brooklyn,1281510,76.0,Signal Problem,3,AM Peak
+2026-04-24,Bus,M15,Manhattan,1435712,80.8,No Incident,0,AM Peak
+2026-04-24,LIRR,Hempstead,Long Island,263875,83.5,No Incident,0,Midday
+2026-04-24,LIRR,Hempstead,Bronx,228013,77.0,Crowding,21,PM Peak
+2026-04-24,LIRR,Ronkonkoma,Manhattan,291354,83.5,Weather,9,PM Peak
+2026-04-24,Metro-North,Hudson,Long Island,244451,80.4,No Incident,0,PM Peak
+2026-04-24,Metro-North,New Haven,Long Island,259329,71.5,Mechanical Issue,35,Evening
+2026-04-25,Subway,Q,Queens,2207370,83.3,Track Work,3,AM Peak
+2026-04-25,Subway,2,Staten Island,2218752,75.5,No Incident,0,Midday
+2026-04-25,Bus,B44,Brooklyn,906329,82.2,No Incident,0,Evening
+2026-04-25,Bus,S79,Manhattan,816105,68.3,Mechanical Issue,11,Evening
+2026-04-25,Bus,B44,Long Island,763803,78.7,No Incident,0,AM Peak
+2026-04-25,Bus,B46,Bronx,1064513,70.0,Track Work,48,PM Peak
+2026-04-25,LIRR,Hempstead,Long Island,147797,77.7,Signal Problem,28,Evening
+2026-04-25,LIRR,Port Washington,Bronx,162692,79.4,No Incident,0,PM Peak
+2026-04-25,Metro-North,Hudson,Manhattan,127119,67.4,Track Work,10,PM Peak
+2026-04-25,Metro-North,Hudson,Queens,136765,75.5,Crowding,10,PM Peak
+2026-04-25,Metro-North,Harlem,Brooklyn,135817,72.5,Track Work,22,PM Peak
+2026-04-26,Subway,3,Bronx,2079023,76.8,No Incident,0,PM Peak
+2026-04-26,Subway,C,Manhattan,1861749,76.3,Track Work,48,PM Peak
+2026-04-26,Subway,L,Westchester,2800430,82.4,Signal Problem,10,Midday
+2026-04-26,Subway,Q,Bronx,2247414,76.9,No Incident,0,AM Peak
+2026-04-26,Bus,S79,Brooklyn,703086,82.2,No Incident,0,AM Peak
+2026-04-26,Bus,B44,Long Island,760745,81.9,Crowding,14,Midday
+2026-04-26,LIRR,Long Beach,Queens,155571,73.4,Signal Problem,22,Midday
+2026-04-26,LIRR,Hempstead,Bronx,175302,80.6,Weather,5,AM Peak
+2026-04-26,LIRR,Long Beach,Staten Island,190844,73.4,Staffing,17,Midday
+2026-04-26,Metro-North,New Haven,Manhattan,136394,84.0,Crowding,10,PM Peak
+2026-04-26,Metro-North,Hudson,Long Island,164562,82.7,Track Work,11,PM Peak
+2026-04-26,Metro-North,New Haven,Staten Island,119748,83.5,No Incident,0,PM Peak
+2026-04-26,Metro-North,Harlem,Westchester,168719,80.9,No Incident,0,PM Peak
+2026-04-27,Subway,R,Staten Island,4074384,85.6,Weather,16,Evening
+2026-04-27,Subway,J,Brooklyn,3265113,84.9,Signal Problem,5,PM Peak
+2026-04-27,Bus,Q10,Queens,1492789,67.3,Staffing,10,PM Peak
+2026-04-27,Bus,M15,Brooklyn,1463218,82.5,Track Work,12,PM Peak
+2026-04-27,LIRR,Ronkonkoma,Queens,297049,79.4,Signal Problem,19,Midday
+2026-04-27,LIRR,Hempstead,Brooklyn,201624,71.5,Signal Problem,9,PM Peak
+2026-04-27,LIRR,Long Beach,Bronx,246270,73.2,No Incident,0,AM Peak
+2026-04-27,LIRR,Hempstead,Westchester,290593,75.0,No Incident,0,Midday
+2026-04-27,Metro-North,Hudson,Bronx,203753,69.0,Track Work,22,Evening
+2026-04-27,Metro-North,Hudson,Westchester,221336,92.8,No Incident,0,Midday
+2026-04-27,Metro-North,Hudson,Manhattan,239041,74.2,Mechanical Issue,21,AM Peak
+2026-04-28,Subway,1,Staten Island,2988268,66.4,Signal Problem,30,PM Peak
+2026-04-28,Subway,L,Westchester,3140941,80.8,Staffing,21,AM Peak
+2026-04-28,Bus,Bx12,Queens,1494530,75.7,Weather,3,Evening
+2026-04-28,Bus,Q10,Queens,1764119,83.4,Police Activity,23,AM Peak
+2026-04-28,Bus,S79,Brooklyn,1346734,73.3,No Incident,0,Midday
+2026-04-28,Bus,Q60,Manhattan,1690959,70.6,Track Work,25,Midday
+2026-04-28,LIRR,Ronkonkoma,Brooklyn,285475,78.3,No Incident,0,PM Peak
+2026-04-28,LIRR,Ronkonkoma,Bronx,224812,82.6,Crowding,22,AM Peak
+2026-04-28,LIRR,Port Washington,Queens,271684,75.5,Staffing,24,PM Peak
+2026-04-28,Metro-North,Hudson,Brooklyn,228291,76.0,Track Work,15,Midday
+2026-04-28,Metro-North,Harlem,Westchester,254717,74.5,No Incident,0,PM Peak
+2026-04-28,Metro-North,Hudson,Bronx,265716,80.1,Weather,19,Midday
+2026-04-28,Metro-North,Harlem,Bronx,241343,81.2,Signal Problem,17,Evening
+2026-04-29,Subway,C,Manhattan,3570532,76.6,Signal Problem,11,AM Peak
+2026-04-29,Subway,L,Staten Island,3785828,81.4,Police Activity,12,AM Peak
+2026-04-29,Subway,3,Brooklyn,4003538,75.7,Staffing,30,AM Peak
+2026-04-29,Bus,Q60,Manhattan,1689926,70.0,Weather,10,PM Peak
+2026-04-29,Bus,Q10,Manhattan,1506580,71.2,Mechanical Issue,15,PM Peak
+2026-04-29,LIRR,Babylon,Queens,235260,78.3,No Incident,0,AM Peak
+2026-04-29,LIRR,Long Beach,Queens,280481,77.5,Signal Problem,11,Midday
+2026-04-29,Metro-North,Harlem,Manhattan,213693,81.2,Weather,28,PM Peak
+2026-04-29,Metro-North,New Haven,Queens,239678,72.7,No Incident,0,AM Peak
+2026-04-29,Metro-North,Hudson,Staten Island,227862,75.8,Signal Problem,18,AM Peak
+2026-04-30,Subway,4,Long Island,3344479,76.3,No Incident,0,PM Peak
+2026-04-30,Subway,1,Westchester,3964864,73.5,Signal Problem,39,PM Peak
+2026-04-30,Subway,C,Westchester,3699184,80.0,Signal Problem,20,Midday
+2026-04-30,Bus,B44,Westchester,1261546,74.8,Signal Problem,19,AM Peak
+2026-04-30,Bus,Q60,Bronx,1335098,75.9,Mechanical Issue,12,AM Peak
+2026-04-30,Bus,M15,Brooklyn,1445804,81.2,No Incident,0,Evening
+2026-04-30,Bus,M15,Bronx,1551649,79.2,No Incident,0,Midday
+2026-04-30,LIRR,Hempstead,Brooklyn,247899,74.7,No Incident,0,PM Peak
+2026-04-30,LIRR,Long Beach,Westchester,254849,79.2,No Incident,0,PM Peak
+2026-04-30,LIRR,Babylon,Westchester,233017,84.5,No Incident,0,PM Peak
+2026-04-30,Metro-North,Harlem,Queens,234815,70.5,Signal Problem,9,PM Peak
+2026-04-30,Metro-North,Hudson,Queens,218086,77.6,Weather,6,PM Peak
+2026-04-30,Metro-North,New Haven,Long Island,242019,81.8,Track Work,11,PM Peak
+2026-04-30,Metro-North,Hudson,Westchester,247849,81.5,Track Work,8,Evening
+2026-05-01,Subway,3,Staten Island,3382422,82.9,No Incident,0,PM Peak
+2026-05-01,Subway,E,Brooklyn,4389000,76.7,No Incident,0,Midday
+2026-05-01,Subway,J,Westchester,3589865,76.6,Mechanical Issue,25,Evening
+2026-05-01,Bus,Q10,Manhattan,1666117,83.4,No Incident,0,AM Peak
+2026-05-01,Bus,S79,Brooklyn,1199870,78.4,Track Work,8,PM Peak
+2026-05-01,Bus,Bx12,Westchester,1291559,75.4,Track Work,34,Midday
+2026-05-01,Bus,Q10,Brooklyn,1319758,71.4,Crowding,38,AM Peak
+2026-05-01,LIRR,Hempstead,Westchester,233182,78.2,Track Work,6,Midday
+2026-05-01,LIRR,Ronkonkoma,Staten Island,262694,74.5,No Incident,0,Midday
+2026-05-01,LIRR,Long Beach,Manhattan,256678,75.4,Mechanical Issue,23,PM Peak
+2026-05-01,LIRR,Ronkonkoma,Staten Island,297379,77.1,No Incident,0,Evening
+2026-05-01,Metro-North,New Haven,Bronx,203279,74.1,Signal Problem,13,Midday
+2026-05-01,Metro-North,Harlem,Westchester,249235,68.2,Signal Problem,10,PM Peak
+2026-05-01,Metro-North,Hudson,Brooklyn,212670,80.1,No Incident,0,AM Peak
+2026-05-02,Subway,L,Staten Island,2172008,78.3,Signal Problem,9,PM Peak
+2026-05-02,Subway,5,Bronx,2361567,67.5,Weather,11,AM Peak
+2026-05-02,Subway,F,Brooklyn,2422736,74.9,Mechanical Issue,17,PM Peak
+2026-05-02,Bus,Bx12,Manhattan,887329,77.0,Track Work,18,AM Peak
+2026-05-02,Bus,Bx12,Brooklyn,964175,67.8,No Incident,0,Midday
+2026-05-02,Bus,Q60,Westchester,887852,77.7,Signal Problem,18,AM Peak
+2026-05-02,LIRR,Long Beach,Bronx,142815,80.1,Track Work,9,Evening
+2026-05-02,LIRR,Long Beach,Queens,133266,67.8,Weather,13,Evening
+2026-05-02,LIRR,Long Beach,Westchester,211612,75.8,No Incident,0,AM Peak
+2026-05-02,Metro-North,Harlem,Long Island,140158,73.5,Mechanical Issue,13,AM Peak
+2026-05-02,Metro-North,New Haven,Bronx,147729,70.6,No Incident,0,PM Peak
+2026-05-02,Metro-North,New Haven,Manhattan,145526,78.0,Weather,52,PM Peak
+2026-05-03,Subway,1,Long Island,2371543,78.8,Weather,30,Evening
+2026-05-03,Subway,A,Queens,2471875,79.8,No Incident,0,Evening
+2026-05-03,Subway,6,Long Island,2612706,66.5,Track Work,14,Evening
+2026-05-03,Bus,Q60,Bronx,1092372,86.8,No Incident,0,PM Peak
+2026-05-03,Bus,B46,Westchester,833549,77.6,No Incident,0,Midday
+2026-05-03,Bus,S79,Westchester,807501,79.3,Signal Problem,17,AM Peak
+2026-05-03,LIRR,Ronkonkoma,Queens,175391,85.6,No Incident,0,Midday
+2026-05-03,LIRR,Hempstead,Long Island,169782,76.1,Staffing,23,PM Peak
+2026-05-03,LIRR,Babylon,Queens,160627,76.3,No Incident,0,PM Peak
+2026-05-03,LIRR,Port Washington,Bronx,149604,78.3,No Incident,0,Evening
+2026-05-03,Metro-North,Harlem,Westchester,149149,74.1,Signal Problem,16,AM Peak
+2026-05-03,Metro-North,New Haven,Staten Island,133239,77.0,No Incident,0,PM Peak
+2026-05-03,Metro-North,Hudson,Long Island,139529,81.0,Staffing,8,AM Peak
+2026-05-03,Metro-North,Hudson,Westchester,132510,68.4,Crowding,24,AM Peak
+2026-05-04,Subway,5,Long Island,3663198,70.4,No Incident,0,Evening
+2026-05-04,Subway,F,Westchester,4026705,79.1,Staffing,54,PM Peak
+2026-05-04,Subway,E,Manhattan,3596013,76.7,Weather,18,AM Peak
+2026-05-04,Bus,Q60,Brooklyn,1449119,79.8,Signal Problem,3,PM Peak
+2026-05-04,Bus,Bx12,Brooklyn,1408486,80.0,No Incident,0,AM Peak
+2026-05-04,LIRR,Long Beach,Staten Island,259157,80.1,Track Work,16,Evening
+2026-05-04,LIRR,Port Washington,Staten Island,283874,75.7,Weather,37,AM Peak
+2026-05-04,Metro-North,New Haven,Manhattan,222551,78.3,Mechanical Issue,9,PM Peak
+2026-05-04,Metro-North,Harlem,Bronx,243773,76.7,Staffing,9,Evening
+2026-05-05,Subway,2,Long Island,3935082,70.3,Mechanical Issue,41,PM Peak
+2026-05-05,Subway,C,Bronx,3944813,73.5,Signal Problem,36,Evening
+2026-05-05,Subway,A,Queens,2883374,79.6,Staffing,5,AM Peak
+2026-05-05,Subway,5,Brooklyn,3403475,73.8,Track Work,21,AM Peak
+2026-05-05,Bus,S79,Staten Island,1347742,77.3,No Incident,0,AM Peak
+2026-05-05,Bus,Bx12,Westchester,1526669,71.3,Signal Problem,28,Evening
+2026-05-05,Bus,S79,Westchester,1600677,84.3,Crowding,3,AM Peak
+2026-05-05,Bus,S79,Brooklyn,1539927,86.0,Police Activity,17,AM Peak
+2026-05-05,LIRR,Hempstead,Brooklyn,265481,70.9,Mechanical Issue,13,AM Peak
+2026-05-05,LIRR,Long Beach,Long Island,257653,77.1,Track Work,6,PM Peak
+2026-05-05,Metro-North,New Haven,Queens,245924,69.9,Staffing,27,AM Peak
+2026-05-05,Metro-North,Hudson,Brooklyn,247594,69.2,Weather,9,AM Peak
+2026-05-05,Metro-North,Harlem,Brooklyn,216742,75.9,No Incident,0,Midday
+2026-05-05,Metro-North,New Haven,Bronx,264704,81.0,Weather,12,AM Peak
+2026-05-06,Subway,3,Brooklyn,3666678,64.0,Signal Problem,7,Midday
+2026-05-06,Subway,5,Staten Island,3752580,75.9,No Incident,0,AM Peak
+2026-05-06,Bus,Q60,Long Island,1378912,81.9,Weather,10,Midday
+2026-05-06,Bus,M15,Long Island,1400620,70.6,Police Activity,11,PM Peak
+2026-05-06,Bus,M15,Brooklyn,1595941,77.5,Signal Problem,3,PM Peak
+2026-05-06,Bus,Bx12,Long Island,1403986,84.8,No Incident,0,AM Peak
+2026-05-06,LIRR,Ronkonkoma,Staten Island,251899,74.2,No Incident,0,Midday
+2026-05-06,LIRR,Hempstead,Queens,238329,78.2,Mechanical Issue,49,AM Peak
+2026-05-06,LIRR,Babylon,Westchester,263921,79.7,Signal Problem,9,AM Peak
+2026-05-06,Metro-North,Hudson,Brooklyn,204964,67.3,Crowding,27,PM Peak
+2026-05-06,Metro-North,Hudson,Long Island,226393,76.8,Crowding,16,AM Peak
+2026-05-06,Metro-North,Harlem,Bronx,229417,74.7,No Incident,0,Evening
+2026-05-07,Subway,4,Queens,3599978,77.4,Weather,45,Evening
+2026-05-07,Subway,Q,Staten Island,3899360,76.3,Mechanical Issue,11,AM Peak
+2026-05-07,Bus,M15,Bronx,1214580,86.6,No Incident,0,PM Peak
+2026-05-07,Bus,S79,Manhattan,1582010,76.9,Track Work,20,Evening
+2026-05-07,Bus,S79,Long Island,1443692,75.3,Track Work,34,Midday
+2026-05-07,LIRR,Port Washington,Staten Island,264774,76.7,Mechanical Issue,7,AM Peak
+2026-05-07,LIRR,Hempstead,Westchester,272411,82.4,Track Work,7,PM Peak
+2026-05-07,LIRR,Hempstead,Brooklyn,248159,75.1,Mechanical Issue,17,PM Peak
+2026-05-07,LIRR,Port Washington,Queens,279395,85.0,Track Work,9,Midday
+2026-05-07,Metro-North,New Haven,Queens,235627,71.3,Weather,7,PM Peak
+2026-05-07,Metro-North,Harlem,Staten Island,224268,67.0,Weather,16,PM Peak
+2026-05-07,Metro-North,New Haven,Manhattan,228862,71.8,Weather,15,AM Peak
+2026-05-08,Subway,J,Long Island,3718109,79.6,Crowding,38,AM Peak
+2026-05-08,Subway,R,Long Island,3950592,75.5,No Incident,0,AM Peak
+2026-05-08,Bus,B46,Manhattan,1359211,87.7,Police Activity,4,PM Peak
+2026-05-08,Bus,M15,Staten Island,1261592,68.8,Mechanical Issue,18,PM Peak
+2026-05-08,Bus,B46,Westchester,1684063,85.7,No Incident,0,PM Peak
+2026-05-08,LIRR,Long Beach,Manhattan,272662,79.7,Staffing,3,AM Peak
+2026-05-08,LIRR,Babylon,Long Island,235318,83.6,No Incident,0,PM Peak
+2026-05-08,LIRR,Long Beach,Staten Island,246549,70.9,Staffing,21,PM Peak
+2026-05-08,LIRR,Long Beach,Long Island,258447,70.7,No Incident,0,PM Peak
+2026-05-08,Metro-North,New Haven,Bronx,238393,77.4,No Incident,0,Evening
+2026-05-08,Metro-North,New Haven,Queens,257059,76.0,No Incident,0,Evening
+2026-05-08,Metro-North,New Haven,Manhattan,219092,78.5,Crowding,10,AM Peak
+2026-05-09,Subway,F,Westchester,2322939,80.2,Police Activity,5,Midday
+2026-05-09,Subway,N,Long Island,2736835,86.5,Mechanical Issue,21,AM Peak
+2026-05-09,Subway,3,Brooklyn,2433186,79.7,Mechanical Issue,9,PM Peak
+2026-05-09,Subway,Q,Brooklyn,2419505,74.2,Crowding,37,Midday
+2026-05-09,Bus,Q60,Long Island,834287,74.0,Signal Problem,20,AM Peak
+2026-05-09,Bus,M15,Westchester,879159,73.6,Weather,15,Midday
+2026-05-09,LIRR,Babylon,Queens,138769,80.2,No Incident,0,PM Peak
+2026-05-09,LIRR,Ronkonkoma,Manhattan,198820,69.7,Signal Problem,5,Midday
+2026-05-09,Metro-North,Hudson,Brooklyn,120983,85.7,No Incident,0,AM Peak
+2026-05-09,Metro-North,New Haven,Staten Island,145590,77.9,Track Work,5,PM Peak
+2026-05-09,Metro-North,New Haven,Bronx,125474,75.3,Mechanical Issue,10,AM Peak
+2026-05-10,Subway,Q,Staten Island,1850537,73.1,Police Activity,3,AM Peak
+2026-05-10,Subway,1,Manhattan,2234824,76.6,Crowding,11,Midday
+2026-05-10,Subway,C,Manhattan,2654136,77.7,Crowding,4,PM Peak
+2026-05-10,Subway,Q,Long Island,2611198,84.1,Signal Problem,29,PM Peak
+2026-05-10,Bus,B46,Manhattan,959963,78.3,No Incident,0,Evening
+2026-05-10,Bus,M15,Staten Island,1053109,81.5,Mechanical Issue,7,PM Peak
+2026-05-10,Bus,B46,Brooklyn,755864,76.4,Staffing,10,PM Peak
+2026-05-10,LIRR,Ronkonkoma,Queens,175788,81.5,No Incident,0,PM Peak
+2026-05-10,LIRR,Babylon,Westchester,129988,79.1,Track Work,23,Midday
+2026-05-10,Metro-North,Hudson,Staten Island,139602,74.6,Signal Problem,6,PM Peak
+2026-05-10,Metro-North,Hudson,Westchester,177358,78.1,No Incident,0,PM Peak
+2026-05-10,Metro-North,Harlem,Bronx,141314,77.0,Crowding,21,Midday
+2026-05-11,Subway,C,Westchester,3363013,78.3,No Incident,0,PM Peak
+2026-05-11,Subway,2,Long Island,3939671,78.4,Signal Problem,3,AM Peak
+2026-05-11,Bus,M15,Westchester,1521601,72.1,Weather,21,AM Peak
+2026-05-11,Bus,Q10,Staten Island,1451407,80.6,No Incident,0,AM Peak
+2026-05-11,Bus,B46,Queens,1592002,74.7,Signal Problem,3,PM Peak
+2026-05-11,Bus,B44,Bronx,1438867,77.8,No Incident,0,Midday
+2026-05-11,LIRR,Port Washington,Brooklyn,258194,69.6,Weather,29,PM Peak
+2026-05-11,LIRR,Babylon,Brooklyn,263341,83.2,Staffing,9,AM Peak
+2026-05-11,Metro-North,New Haven,Bronx,236768,75.9,Track Work,51,PM Peak
+2026-05-11,Metro-North,Hudson,Long Island,217590,72.1,Staffing,16,PM Peak
+2026-05-12,Subway,4,Long Island,3824421,81.5,No Incident,0,AM Peak
+2026-05-12,Subway,1,Staten Island,3312589,81.2,No Incident,0,PM Peak
+2026-05-12,Subway,Q,Long Island,3825783,75.2,Signal Problem,5,PM Peak
+2026-05-12,Subway,C,Long Island,3518624,80.9,Mechanical Issue,6,AM Peak
+2026-05-12,Bus,B44,Staten Island,1264571,72.1,Signal Problem,13,Midday
+2026-05-12,Bus,B46,Long Island,1467190,70.0,Weather,28,AM Peak
+2026-05-12,Bus,S79,Westchester,1381253,62.6,Track Work,9,AM Peak
+2026-05-12,Bus,S79,Westchester,1474270,74.9,Crowding,19,PM Peak
+2026-05-12,LIRR,Ronkonkoma,Brooklyn,257921,74.9,Signal Problem,25,Midday
+2026-05-12,LIRR,Port Washington,Staten Island,273446,73.7,Track Work,24,Evening
+2026-05-12,LIRR,Babylon,Staten Island,250965,72.9,Weather,3,PM Peak
+2026-05-12,Metro-North,Hudson,Queens,231079,80.9,Track Work,13,AM Peak
+2026-05-12,Metro-North,New Haven,Manhattan,233893,70.7,Track Work,18,PM Peak
+2026-05-13,Subway,5,Westchester,4259935,74.0,Staffing,3,Midday
+2026-05-13,Subway,5,Brooklyn,3498382,66.1,Mechanical Issue,19,PM Peak
+2026-05-13,Subway,C,Brooklyn,3703215,74.0,Crowding,20,AM Peak
+2026-05-13,Subway,C,Manhattan,3892465,75.0,No Incident,0,AM Peak
+2026-05-13,Bus,B46,Manhattan,1455130,79.8,Weather,22,PM Peak
+2026-05-13,Bus,B44,Staten Island,1506564,78.4,No Incident,0,Midday
+2026-05-13,Bus,S79,Westchester,1539450,70.0,No Incident,0,Evening
+2026-05-13,Bus,Q60,Brooklyn,1275643,80.2,Signal Problem,3,Midday
+2026-05-13,LIRR,Ronkonkoma,Queens,256066,78.1,Crowding,27,AM Peak
+2026-05-13,LIRR,Long Beach,Queens,253142,85.3,Track Work,10,Midday
+2026-05-13,LIRR,Long Beach,Long Island,215284,76.5,Weather,24,PM Peak
+2026-05-13,Metro-North,New Haven,Brooklyn,275602,73.8,Police Activity,16,PM Peak
+2026-05-13,Metro-North,New Haven,Staten Island,235044,75.1,Signal Problem,4,PM Peak
+2026-05-14,Subway,3,Brooklyn,3601381,79.1,No Incident,0,Midday
+2026-05-14,Subway,J,Brooklyn,3732586,87.3,No Incident,0,PM Peak
+2026-05-14,Subway,5,Staten Island,3655005,84.9,Mechanical Issue,35,Midday
+2026-05-14,Bus,B46,Manhattan,1493459,79.0,Weather,4,AM Peak
+2026-05-14,Bus,M15,Brooklyn,1325863,81.1,Weather,13,Evening
+2026-05-14,LIRR,Babylon,Long Island,257920,82.3,Mechanical Issue,23,PM Peak
+2026-05-14,LIRR,Babylon,Long Island,271411,71.7,No Incident,0,AM Peak
+2026-05-14,Metro-North,Harlem,Staten Island,205505,81.2,Signal Problem,8,AM Peak
+2026-05-14,Metro-North,Harlem,Staten Island,224273,73.8,Weather,10,PM Peak
+2026-05-14,Metro-North,Hudson,Long Island,237561,79.6,Staffing,26,PM Peak
+2026-05-15,Subway,3,Staten Island,3611678,81.8,Staffing,25,PM Peak
+2026-05-15,Subway,A,Long Island,4074025,70.1,Staffing,14,PM Peak
+2026-05-15,Subway,1,Staten Island,3626973,77.6,No Incident,0,Evening
+2026-05-15,Subway,5,Queens,3938913,78.9,No Incident,0,Evening
+2026-05-15,Bus,B46,Staten Island,1314151,81.3,No Incident,0,AM Peak
+2026-05-15,Bus,M15,Queens,1520206,69.7,Staffing,15,PM Peak
+2026-05-15,Bus,Q10,Manhattan,1358692,78.9,Mechanical Issue,16,AM Peak
+2026-05-15,Bus,B46,Bronx,1430264,73.5,Weather,8,PM Peak
+2026-05-15,LIRR,Ronkonkoma,Bronx,233497,68.0,Track Work,16,AM Peak
+2026-05-15,LIRR,Babylon,Long Island,244732,85.7,Mechanical Issue,13,Midday
+2026-05-15,LIRR,Ronkonkoma,Long Island,232775,76.8,Mechanical Issue,21,AM Peak
+2026-05-15,LIRR,Hempstead,Long Island,265016,72.8,Police Activity,12,Midday
+2026-05-15,Metro-North,Harlem,Brooklyn,214705,87.7,No Incident,0,AM Peak
+2026-05-15,Metro-North,New Haven,Brooklyn,231570,74.1,Track Work,16,AM Peak
+2026-05-15,Metro-North,Harlem,Brooklyn,231845,71.8,No Incident,0,Midday
+2026-05-16,Subway,Q,Brooklyn,2378008,73.9,No Incident,0,PM Peak
+2026-05-16,Subway,F,Bronx,2291736,67.9,No Incident,0,PM Peak
+2026-05-16,Bus,B44,Staten Island,875326,85.9,Signal Problem,17,Evening
+2026-05-16,Bus,B44,Manhattan,1162484,67.2,No Incident,0,Midday
+2026-05-16,LIRR,Long Beach,Manhattan,148079,80.3,No Incident,0,PM Peak
+2026-05-16,LIRR,Port Washington,Staten Island,147108,74.6,Signal Problem,10,AM Peak
+2026-05-16,Metro-North,Harlem,Long Island,121332,71.6,Crowding,26,AM Peak
+2026-05-16,Metro-North,Hudson,Westchester,142735,81.6,No Incident,0,PM Peak
+2026-05-16,Metro-North,Hudson,Manhattan,125811,82.3,No Incident,0,Evening
+2026-05-16,Metro-North,New Haven,Brooklyn,156860,75.1,Weather,10,Midday
+2026-05-17,Subway,A,Manhattan,2188362,77.2,Mechanical Issue,10,PM Peak
+2026-05-17,Subway,J,Queens,2633113,73.8,No Incident,0,PM Peak
+2026-05-17,Bus,M15,Westchester,988947,87.0,Mechanical Issue,8,Evening
+2026-05-17,Bus,Q60,Bronx,1048569,75.9,Mechanical Issue,16,Midday
+2026-05-17,LIRR,Babylon,Bronx,144616,73.6,Crowding,11,AM Peak
+2026-05-17,LIRR,Port Washington,Bronx,152964,74.5,No Incident,0,PM Peak
+2026-05-17,LIRR,Ronkonkoma,Bronx,171227,82.8,Track Work,11,PM Peak
+2026-05-17,LIRR,Hempstead,Brooklyn,150479,77.3,No Incident,0,Evening
+2026-05-17,Metro-North,Harlem,Westchester,132824,70.2,Crowding,17,Midday
+2026-05-17,Metro-North,New Haven,Long Island,137527,84.1,No Incident,0,Evening
+2026-05-18,Subway,C,Manhattan,3962789,79.2,Mechanical Issue,12,PM Peak
+2026-05-18,Subway,R,Staten Island,3567031,65.8,No Incident,0,Evening
+2026-05-18,Subway,5,Bronx,4038498,80.8,Crowding,23,AM Peak
+2026-05-18,Bus,Q60,Brooklyn,1278136,79.3,No Incident,0,PM Peak
+2026-05-18,Bus,M15,Staten Island,1419156,73.5,Crowding,35,AM Peak
+2026-05-18,LIRR,Long Beach,Westchester,265156,83.3,Weather,8,Evening
+2026-05-18,LIRR,Babylon,Long Island,282875,71.9,Track Work,36,Midday
+2026-05-18,Metro-North,Harlem,Long Island,226555,75.4,Staffing,24,AM Peak
+2026-05-18,Metro-North,Harlem,Staten Island,219126,76.9,No Incident,0,PM Peak
+2026-05-19,Subway,3,Staten Island,4056518,63.0,Crowding,10,Midday
+2026-05-19,Subway,J,Westchester,4585516,77.4,No Incident,0,Midday
+2026-05-19,Subway,Q,Staten Island,3886748,79.2,Weather,9,Midday
+2026-05-19,Subway,F,Bronx,4141056,75.0,Signal Problem,36,PM Peak
+2026-05-19,Bus,Bx12,Staten Island,1381275,71.8,Police Activity,11,PM Peak
+2026-05-19,Bus,B44,Bronx,1309690,75.3,Weather,22,PM Peak
+2026-05-19,Bus,Q10,Westchester,1317185,78.9,No Incident,0,Evening
+2026-05-19,LIRR,Port Washington,Bronx,273084,85.8,Staffing,12,Evening
+2026-05-19,LIRR,Babylon,Long Island,257765,83.7,No Incident,0,PM Peak
+2026-05-19,LIRR,Hempstead,Westchester,247491,77.8,Signal Problem,20,Evening
+2026-05-19,LIRR,Ronkonkoma,Brooklyn,248151,73.3,Track Work,41,AM Peak
+2026-05-19,Metro-North,Hudson,Bronx,252146,76.7,Mechanical Issue,26,AM Peak
+2026-05-19,Metro-North,New Haven,Staten Island,224609,84.6,Crowding,9,Midday
+2026-05-19,Metro-North,New Haven,Brooklyn,214926,76.4,No Incident,0,PM Peak
+2026-05-20,Subway,E,Manhattan,3453821,78.4,Signal Problem,22,Midday
+2026-05-20,Subway,6,Brooklyn,4153376,70.1,Staffing,13,Midday
+2026-05-20,Bus,B44,Queens,1351956,69.5,No Incident,0,Midday
+2026-05-20,Bus,Bx12,Brooklyn,1403952,76.7,Track Work,10,PM Peak
+2026-05-20,Bus,B44,Staten Island,1477564,79.4,No Incident,0,AM Peak
+2026-05-20,Bus,B46,Brooklyn,1524189,81.3,Track Work,6,Midday
+2026-05-20,LIRR,Port Washington,Westchester,276357,76.5,Signal Problem,19,AM Peak
+2026-05-20,LIRR,Babylon,Bronx,244485,60.0,Crowding,29,PM Peak
+2026-05-20,LIRR,Ronkonkoma,Manhattan,250792,72.3,No Incident,0,Evening
+2026-05-20,LIRR,Long Beach,Bronx,266664,73.8,Weather,8,Evening
+2026-05-20,Metro-North,New Haven,Manhattan,210329,78.4,No Incident,0,AM Peak
+2026-05-20,Metro-North,Harlem,Westchester,203553,69.3,Track Work,31,PM Peak
+2026-05-20,Metro-North,Harlem,Bronx,211315,78.7,Signal Problem,11,AM Peak
+2026-05-21,Subway,3,Staten Island,3934037,72.8,No Incident,0,Evening
+2026-05-21,Subway,N,Bronx,3588586,73.2,Signal Problem,6,Midday
+2026-05-21,Subway,2,Bronx,3484990,74.8,No Incident,0,PM Peak
+2026-05-21,Bus,B44,Westchester,1513284,70.3,Mechanical Issue,35,Midday
+2026-05-21,Bus,B46,Long Island,1439151,71.1,No Incident,0,PM Peak
+2026-05-21,LIRR,Port Washington,Manhattan,220508,78.1,No Incident,0,AM Peak
+2026-05-21,LIRR,Port Washington,Bronx,253541,78.9,Police Activity,35,AM Peak
+2026-05-21,Metro-North,Harlem,Westchester,208122,73.5,Track Work,7,Midday
+2026-05-21,Metro-North,New Haven,Long Island,235855,76.9,Track Work,12,AM Peak
+2026-05-22,Subway,J,Westchester,3562852,74.1,Weather,27,PM Peak
+2026-05-22,Subway,5,Manhattan,3759100,76.0,Track Work,3,PM Peak
+2026-05-22,Subway,2,Westchester,3418751,71.3,Crowding,37,PM Peak
+2026-05-22,Subway,A,Long Island,3800535,81.2,Weather,5,PM Peak
+2026-05-22,Bus,B44,Staten Island,1696292,65.5,Signal Problem,13,Midday
+2026-05-22,Bus,M15,Brooklyn,1549573,69.7,Police Activity,6,Evening
+2026-05-22,LIRR,Ronkonkoma,Staten Island,308325,67.9,Staffing,30,Evening
+2026-05-22,LIRR,Long Beach,Manhattan,257465,73.1,No Incident,0,Midday
+2026-05-22,Metro-North,Hudson,Westchester,215387,79.9,No Incident,0,Evening
+2026-05-22,Metro-North,Harlem,Manhattan,222414,76.3,No Incident,0,PM Peak
+2026-05-22,Metro-North,Hudson,Manhattan,228692,81.4,Staffing,14,Evening
+2026-05-22,Metro-North,New Haven,Bronx,229755,80.3,No Incident,0,AM Peak
+2026-05-23,Subway,C,Westchester,2484992,76.4,Mechanical Issue,19,PM Peak
+2026-05-23,Subway,3,Bronx,2418524,75.4,No Incident,0,PM Peak
+2026-05-23,Bus,B44,Westchester,945533,62.4,No Incident,0,PM Peak
+2026-05-23,Bus,B46,Queens,568037,73.2,No Incident,0,Evening
+2026-05-23,Bus,Q10,Queens,1069381,71.9,Crowding,11,AM Peak
+2026-05-23,LIRR,Babylon,Queens,185982,82.1,No Incident,0,PM Peak
+2026-05-23,LIRR,Ronkonkoma,Manhattan,147894,66.7,No Incident,0,PM Peak
+2026-05-23,LIRR,Babylon,Westchester,151003,73.5,No Incident,0,Evening
+2026-05-23,Metro-North,Harlem,Brooklyn,132677,88.7,No Incident,0,Evening
+2026-05-23,Metro-North,Harlem,Staten Island,187783,83.7,Track Work,17,PM Peak
+2026-05-24,Subway,5,Queens,2153745,81.0,Police Activity,26,PM Peak
+2026-05-24,Subway,J,Staten Island,1876111,66.5,No Incident,0,Evening
+2026-05-24,Subway,C,Manhattan,2496712,78.8,Police Activity,9,Midday
+2026-05-24,Subway,N,Westchester,2314277,78.3,Mechanical Issue,3,AM Peak
+2026-05-24,Bus,Q60,Long Island,1010178,83.0,Track Work,6,Midday
+2026-05-24,Bus,B46,Manhattan,865509,70.7,Signal Problem,6,Evening
+2026-05-24,LIRR,Hempstead,Manhattan,165797,77.8,Police Activity,35,Evening
+2026-05-24,LIRR,Port Washington,Staten Island,160781,73.2,Signal Problem,18,AM Peak
+2026-05-24,LIRR,Port Washington,Brooklyn,189630,74.6,No Incident,0,PM Peak
+2026-05-24,Metro-North,Harlem,Brooklyn,128808,77.3,No Incident,0,AM Peak
+2026-05-24,Metro-North,Hudson,Staten Island,145780,72.9,Mechanical Issue,5,PM Peak
+2026-05-24,Metro-North,Harlem,Westchester,136795,76.6,No Incident,0,Midday
+2026-05-24,Metro-North,Harlem,Westchester,131040,74.9,No Incident,0,PM Peak
+2026-05-25,Subway,2,Brooklyn,3453676,75.3,Mechanical Issue,6,PM Peak
+2026-05-25,Subway,2,Manhattan,3714815,77.3,Staffing,19,PM Peak
+2026-05-25,Subway,N,Manhattan,3257640,69.2,No Incident,0,AM Peak
+2026-05-25,Bus,B46,Brooklyn,1206407,73.1,Signal Problem,28,Midday
+2026-05-25,Bus,M15,Westchester,1488353,74.3,No Incident,0,Evening
+2026-05-25,Bus,B44,Staten Island,1496425,77.1,Signal Problem,10,AM Peak
+2026-05-25,LIRR,Ronkonkoma,Westchester,220595,86.0,No Incident,0,Midday
+2026-05-25,LIRR,Ronkonkoma,Long Island,253722,72.7,Track Work,17,AM Peak
+2026-05-25,LIRR,Ronkonkoma,Bronx,291389,76.0,Track Work,11,PM Peak
+2026-05-25,Metro-North,Hudson,Bronx,208890,78.5,Mechanical Issue,28,PM Peak
+2026-05-25,Metro-North,Hudson,Manhattan,202994,73.3,Crowding,9,Midday
+2026-05-25,Metro-North,Hudson,Bronx,236039,74.3,Staffing,22,PM Peak
+2026-05-26,Subway,F,Queens,3440347,69.1,Weather,18,AM Peak
+2026-05-26,Subway,Q,Long Island,3836782,73.6,Signal Problem,29,AM Peak
+2026-05-26,Subway,6,Manhattan,3715383,79.6,Weather,4,AM Peak
+2026-05-26,Bus,B46,Westchester,1572955,67.2,Police Activity,16,Midday
+2026-05-26,Bus,Bx12,Westchester,1570699,66.6,Mechanical Issue,9,Midday
+2026-05-26,Bus,Bx12,Brooklyn,1544970,80.2,Mechanical Issue,26,PM Peak
+2026-05-26,LIRR,Ronkonkoma,Manhattan,238773,84.3,Crowding,32,AM Peak
+2026-05-26,LIRR,Hempstead,Westchester,265801,79.7,No Incident,0,Midday
+2026-05-26,LIRR,Hempstead,Long Island,232421,72.1,Signal Problem,49,AM Peak
+2026-05-26,Metro-North,Hudson,Westchester,220622,76.2,Crowding,18,Evening
+2026-05-26,Metro-North,Harlem,Queens,228185,75.5,No Incident,0,AM Peak
+2026-05-26,Metro-North,New Haven,Long Island,199563,75.9,Track Work,3,AM Peak
+2026-05-26,Metro-North,Hudson,Queens,229134,68.5,Weather,22,AM Peak
+2026-05-27,Subway,3,Bronx,3572148,63.6,Weather,15,PM Peak
+2026-05-27,Subway,1,Queens,3696970,80.7,Track Work,8,PM Peak
+2026-05-27,Subway,E,Westchester,3299806,74.5,Mechanical Issue,5,AM Peak
+2026-05-27,Bus,Bx12,Manhattan,1395895,79.7,Signal Problem,3,Midday
+2026-05-27,Bus,Q60,Queens,1398279,74.4,No Incident,0,Midday
+2026-05-27,Bus,B46,Queens,1420704,83.0,No Incident,0,AM Peak
+2026-05-27,LIRR,Babylon,Bronx,249477,74.8,No Incident,0,PM Peak
+2026-05-27,LIRR,Long Beach,Staten Island,295727,78.8,No Incident,0,AM Peak
+2026-05-27,LIRR,Babylon,Bronx,242258,85.1,Track Work,8,AM Peak
+2026-05-27,LIRR,Hempstead,Bronx,256275,81.3,No Incident,0,Midday
+2026-05-27,Metro-North,Hudson,Manhattan,234631,78.2,No Incident,0,AM Peak
+2026-05-27,Metro-North,New Haven,Manhattan,228290,71.8,Crowding,13,AM Peak
+2026-05-27,Metro-North,New Haven,Bronx,238619,75.7,Staffing,20,PM Peak
+2026-05-28,Subway,Q,Staten Island,3729084,81.9,Mechanical Issue,8,PM Peak
+2026-05-28,Subway,C,Brooklyn,3666520,71.0,Crowding,6,AM Peak
+2026-05-28,Subway,L,Brooklyn,4241687,86.7,No Incident,0,AM Peak
+2026-05-28,Subway,2,Brooklyn,3714587,73.7,Mechanical Issue,13,Midday
+2026-05-28,Bus,Q10,Manhattan,1431154,69.2,Crowding,25,PM Peak
+2026-05-28,Bus,Q60,Bronx,1470351,77.3,No Incident,0,PM Peak
+2026-05-28,Bus,B46,Bronx,1422130,77.6,No Incident,0,Midday
+2026-05-28,LIRR,Port Washington,Manhattan,254689,83.0,Signal Problem,14,Midday
+2026-05-28,LIRR,Long Beach,Long Island,260570,76.2,Track Work,22,AM Peak
+2026-05-28,Metro-North,New Haven,Bronx,216259,77.2,Track Work,9,PM Peak
+2026-05-28,Metro-North,New Haven,Manhattan,243794,87.8,No Incident,0,PM Peak
+2026-05-29,Subway,5,Westchester,3798404,74.4,Weather,17,Evening
+2026-05-29,Subway,C,Long Island,3416969,66.5,Weather,35,PM Peak
+2026-05-29,Bus,Q60,Queens,1346176,81.1,Crowding,4,AM Peak
+2026-05-29,Bus,M15,Westchester,1666382,76.0,Mechanical Issue,13,PM Peak
+2026-05-29,LIRR,Hempstead,Westchester,263510,79.5,Track Work,24,PM Peak
+2026-05-29,LIRR,Ronkonkoma,Staten Island,267953,82.7,No Incident,0,Evening
+2026-05-29,LIRR,Babylon,Long Island,265344,76.5,No Incident,0,AM Peak
+2026-05-29,LIRR,Hempstead,Westchester,250135,80.5,Weather,24,PM Peak
+2026-05-29,Metro-North,Harlem,Manhattan,223073,68.8,Track Work,20,PM Peak
+2026-05-29,Metro-North,Harlem,Westchester,248417,76.9,Mechanical Issue,13,Midday
+2026-05-29,Metro-North,Hudson,Staten Island,260353,90.1,Crowding,17,PM Peak
+2026-05-29,Metro-North,New Haven,Staten Island,225980,73.1,Weather,12,PM Peak
+2026-05-30,Subway,C,Manhattan,2025340,77.7,Crowding,36,Midday
+2026-05-30,Subway,N,Queens,2424089,76.3,Track Work,5,PM Peak
+2026-05-30,Subway,E,Queens,2052212,77.6,Weather,23,AM Peak
+2026-05-30,Subway,1,Manhattan,2206417,77.1,Signal Problem,20,Midday
+2026-05-30,Bus,Q60,Manhattan,807022,79.0,Staffing,37,PM Peak
+2026-05-30,Bus,B46,Staten Island,896330,80.6,No Incident,0,PM Peak
+2026-05-30,Bus,B46,Staten Island,768417,71.2,Signal Problem,21,PM Peak
+2026-05-30,LIRR,Port Washington,Westchester,185473,80.9,No Incident,0,PM Peak
+2026-05-30,LIRR,Hempstead,Staten Island,140067,78.2,No Incident,0,AM Peak
+2026-05-30,LIRR,Ronkonkoma,Manhattan,158223,79.4,Mechanical Issue,10,AM Peak
+2026-05-30,Metro-North,New Haven,Queens,106317,73.0,Weather,6,AM Peak
+2026-05-30,Metro-North,Harlem,Bronx,155494,72.4,Signal Problem,5,Midday
+2026-05-31,Subway,C,Brooklyn,2246531,76.9,No Incident,0,PM Peak
+2026-05-31,Subway,1,Westchester,2550404,77.4,Police Activity,29,PM Peak
+2026-05-31,Subway,5,Queens,2393393,75.6,Staffing,11,AM Peak
+2026-05-31,Subway,Q,Queens,2386606,87.1,No Incident,0,PM Peak
+2026-05-31,Bus,B46,Manhattan,799248,81.9,No Incident,0,Midday
+2026-05-31,Bus,Q60,Bronx,1020254,78.2,No Incident,0,Evening
+2026-05-31,Bus,B46,Staten Island,675189,68.7,Staffing,13,PM Peak
+2026-05-31,Bus,B46,Westchester,824649,79.9,No Incident,0,AM Peak
+2026-05-31,LIRR,Port Washington,Westchester,192699,82.6,No Incident,0,Midday
+2026-05-31,LIRR,Hempstead,Manhattan,163421,76.9,Staffing,4,Midday
+2026-05-31,Metro-North,New Haven,Long Island,149921,76.2,Staffing,11,PM Peak
+2026-05-31,Metro-North,New Haven,Bronx,131689,85.8,Crowding,3,AM Peak
+2026-05-31,Metro-North,Harlem,Westchester,119770,84.6,Track Work,10,PM Peak
+2026-05-31,Metro-North,Harlem,Brooklyn,160911,73.6,Weather,16,Midday
