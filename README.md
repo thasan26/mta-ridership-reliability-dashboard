@@ -52,7 +52,7 @@ python src/analyze_mta.py
 ## Dashboard Suggestions for Power BI
 Use the dataset in `data/mta_ridership_reliability_sample.csv`.
 
-Recommended visuals:
+ visuals:
 - KPI cards: Total Ridership, Average Recovery %, Total Delay Minutes, Incident Count
 - Line chart: Date vs Daily Ridership
 - Bar chart: Delay Minutes by Incident Type
@@ -60,4 +60,4 @@ Recommended visuals:
 - Slicer: Mode, Borough/Region, Incident Type, Peak Period
 
 ## Notes
-This is a portfolio project using a public-analytics style sample dataset. It is designed to demonstrate data analyst skills, dashboard thinking, and transportation reliability analysis.
+This is a project using a public-analytics style sample dataset. It is designed to demonstrate data analyst skills, dashboard thinking, and transportation reliability analysis.
