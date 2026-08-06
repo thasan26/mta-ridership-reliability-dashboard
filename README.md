@@ -19,11 +19,6 @@ This project analyzes transit ridership and service reliability patterns using a
 - Identified high-delay route/region combinations to support root-cause analysis.
 - Generated chart-ready outputs for Power BI, Excel Pivot Tables, and dashboard screenshots.
 
-## Resume-Aligned Bullet Points
-- Built a transit analytics dashboard using **Python, Excel, and Power BI-ready data** to track ridership, recovery percentage, delay minutes, and incident patterns across multiple transit modes.
-- Cleaned and transformed structured ridership data into KPI summaries, reducing manual reporting work by creating reusable CSV outputs for dashboarding and leadership review.
-- Identified high-delay route and incident patterns using grouped analysis, supporting root-cause analysis for service reliability improvement.
-
 ## Folder Structure
 ```text
 mta-ridership-reliability-dashboard/
