@@ -236,7 +236,7 @@ This project demonstrates practical data analytics skills by transforming raw tr
 
 **Tasfia Hasan**
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/thasan263000/
 - GitHub: https://github.com/thasan26
 
 If you found this project useful, feel free to ⭐ the repository!
